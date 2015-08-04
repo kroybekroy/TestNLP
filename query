@@ -1,0 +1,6 @@
+SELECT s.body, pos, count(*) 
+FROM `sms_pos_tag` spt 
+inner join sms s 
+on spt.sms_id = s.id 
+group by s.body, pos 
+order by 1, 2

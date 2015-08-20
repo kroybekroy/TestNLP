@@ -1,0 +1,69 @@
+Data
+
+
+Sentences
+1. Your AC XXXXX379095 Debited INR 5,000.00 on 26/07/15 -DIRECT DR .
+2. Avl Bal INR 9,488.93
+
+
+Tokens
+1. Your
+2. AC
+3. XXXXX379095
+4. Debited
+5. INR
+6. 5,000.00
+7. on
+8. 26/07/15
+9. -DIRECT
+10. DR
+11. .
+12. Avl
+13. Bal
+14. INR
+15. 9,488.93
+
+
+POS Tags [Token :: Tag]
+1. Your :: PRP$
+2. AC :: NNP
+3. XXXXX379095 :: CD
+4. Debited :: NNP
+5. INR :: NNP
+6. 5,000.00 :: CD
+7. on :: IN
+8. 26/07/15 :: CD
+9. -DIRECT :: JJ
+10. DR :: NN
+11. . :: .
+12. Avl :: ''
+13. Bal :: NNP
+14. INR :: NNP
+15. 9,488.93 :: CD
+
+
+Name Finds
+
+
+Chunks [Token :: Tag :: Chunk :: Confidence Probability]
+1. Your :: PRP$ :: B-NP :: 0.9822742284072679
+2. AC :: NNP :: I-NP :: 0.9758492354190165
+3. XXXXX379095 :: CD :: I-NP :: 0.972824348566607
+4. Debited :: NNP :: I-NP :: 0.8255391072956872
+5. INR :: NNP :: I-NP :: 0.9459134440611676
+6. 5,000.00 :: CD :: I-NP :: 0.9124847009991948
+7. on :: IN :: B-PP :: 0.9672094783832916
+8. 26/07/15 :: CD :: B-NP :: 0.9610493214926308
+9. -DIRECT :: JJ :: I-NP :: 0.9769513046017937
+10. DR :: NN :: I-NP :: 0.9910874617090628
+11. . :: . :: O :: 0.9102171140755921
+12. Avl :: '' :: O :: 0.9004469658678994
+13. Bal :: NNP :: B-NP :: 0.8445137411609638
+14. INR :: NNP :: I-NP :: 0.9232634714818311
+15. 9,488.93 :: CD :: O :: 0.6852009441376016
+
+
+Parses
+1. (TOP (NP (NP (NP (PRP$ Your) (NNP AC) (CD XXXXX379095) (NNP Debited) (NNP INR) (CD 5,000.00)) (PP (IN on) (NP (CD 26/07/15) (JJ -DIRECT) (NN DR)))) (. .) (`` Avl) (NP (NNP Bal) (NNP INR) (CD 9,488.93))))
+
+

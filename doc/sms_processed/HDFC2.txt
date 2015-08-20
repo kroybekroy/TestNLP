@@ -1,0 +1,87 @@
+Data
+
+
+Sentences
+1. An amount of Rs.1,000.00 has been debited from your account number XXXX5729 for NEFT txn done using HDFC Bank NetBanking.
+
+
+Tokens
+1. An
+2. amount
+3. of
+4. Rs.1,000.00
+5. has
+6. been
+7. debited
+8. from
+9. your
+10. account
+11. number
+12. XXXX5729
+13. for
+14. NEFT
+15. txn
+16. done
+17. using
+18. HDFC
+19. Bank
+20. NetBanking
+21. .
+
+
+POS Tags [Token :: Tag]
+1. An :: DT
+2. amount :: NN
+3. of :: IN
+4. Rs.1,000.00 :: CD
+5. has :: VBZ
+6. been :: VBN
+7. debited :: VBN
+8. from :: IN
+9. your :: PRP$
+10. account :: NN
+11. number :: NN
+12. XXXX5729 :: CD
+13. for :: IN
+14. NEFT :: NNP
+15. txn :: NN
+16. done :: VBN
+17. using :: VBG
+18. HDFC :: NNP
+19. Bank :: NNP
+20. NetBanking :: NNP
+21. . :: .
+
+
+Name Finds
+1. XXXX5729
+
+
+Chunks [Token :: Tag :: Chunk :: Confidence Probability]
+1. An :: DT :: B-NP :: 0.9916029671339005
+2. amount :: NN :: I-NP :: 0.9924714828204204
+3. of :: IN :: B-PP :: 0.9697663702371859
+4. Rs.1,000.00 :: CD :: B-NP :: 0.9934256833912622
+5. has :: VBZ :: B-VP :: 0.9871777185934639
+6. been :: VBN :: I-VP :: 0.9924531025180315
+7. debited :: VBN :: I-VP :: 0.9788142159685863
+8. from :: IN :: B-PP :: 0.9431043371318437
+9. your :: PRP$ :: B-NP :: 0.991858545782601
+10. account :: NN :: I-NP :: 0.996980233760466
+11. number :: NN :: I-NP :: 0.9146899581549495
+12. XXXX5729 :: CD :: B-NP :: 0.7302840662077457
+13. for :: IN :: B-PP :: 0.9456555825136429
+14. NEFT :: NNP :: B-NP :: 0.988880346906736
+15. txn :: NN :: I-NP :: 0.8823911356295965
+16. done :: VBN :: B-VP :: 0.8515004013800577
+17. using :: VBG :: I-VP :: 0.5763685332671646
+18. HDFC :: NNP :: B-NP :: 0.9535678538750381
+19. Bank :: NNP :: I-NP :: 0.9811588463623975
+20. NetBanking :: NNP :: I-NP :: 0.9938330929532132
+21. . :: . :: O :: 0.9921860118009028
+
+
+Parses
+1. (TOP (S (NP (NP (DT An) (NN amount)) (PP (IN of) (NP (CD Rs.1,000.00)))) (VP (VBZ has) (VP (VBN been) (VP (VBN debited) (PP (IN from) (NP (PRP$ your) (NN account) (NN number) (CD XXXX5729))) (PP (IN for) (NP (NP (NNP NEFT) (NN txn)) (VP (VBN done) (S (VP (VBG using) (NP (NNP HDFC) (NNP Bank)))))))))) (. NetBanking.)))
+
+

@@ -1,0 +1,119 @@
+Data
+
+
+Sentences
+1. Thank you for using StanChart Card No XX4275 on 23/07/15 for INR 202.80.
+2. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+
+
+Tokens
+1. Thank
+2. you
+3. for
+4. using
+5. StanChart
+6. Card
+7. No
+8. XX4275
+9. on
+10. 23/07/15
+11. for
+12. INR
+13. 202.80
+14. .
+15. To
+16. check
+17. EMI
+18. eligibility
+19. on
+20. spends
+21. above
+22. INR5000
+23. ,
+24. log
+25. on
+26. to
+27. m
+28. .sc.com/in
+29. -T&C
+30. Apply
+31. .
+
+
+POS Tags [Token :: Tag]
+1. Thank :: VB
+2. you :: PRP
+3. for :: IN
+4. using :: VBG
+5. StanChart :: NNP
+6. Card :: NNP
+7. No :: DT
+8. XX4275 :: IN
+9. on :: IN
+10. 23/07/15 :: CD
+11. for :: IN
+12. INR :: NNP
+13. 202.80 :: CD
+14. . :: .
+15. To :: TO
+16. check :: VB
+17. EMI :: NNP
+18. eligibility :: NN
+19. on :: IN
+20. spends :: VBZ
+21. above :: IN
+22. INR5000 :: PRP
+23. , :: ,
+24. log :: VBP
+25. on :: IN
+26. to :: TO
+27. m :: VB
+28. .sc.com/in :: IN
+29. -T&C :: JJ
+30. Apply :: NNP
+31. . :: .
+
+
+Name Finds
+1. XX4275
+2. INR5000
+
+
+Chunks [Token :: Tag :: Chunk :: Confidence Probability]
+1. Thank :: VB :: B-VP :: 0.9716187838509357
+2. you :: PRP :: B-NP :: 0.9822967280127711
+3. for :: IN :: B-PP :: 0.9436341129605526
+4. using :: VBG :: B-VP :: 0.950161475973938
+5. StanChart :: NNP :: B-NP :: 0.9822210307527623
+6. Card :: NNP :: I-NP :: 0.932965238918952
+7. No :: DT :: I-NP :: 0.47679531584602985
+8. XX4275 :: IN :: B-PP :: 0.716049810010726
+9. on :: IN :: B-NP :: 0.5084589991425171
+10. 23/07/15 :: CD :: I-NP :: 0.9215822100585909
+11. for :: IN :: B-PP :: 0.9029987832849528
+12. INR :: NNP :: B-NP :: 0.9850898760557144
+13. 202.80 :: CD :: I-NP :: 0.9594856126864625
+14. . :: . :: O :: 0.6506599985154358
+15. To :: TO :: B-VP :: 0.8993091398266276
+16. check :: VB :: I-VP :: 0.9935689080555226
+17. EMI :: NNP :: B-NP :: 0.9892501263945968
+18. eligibility :: NN :: I-NP :: 0.9064393821628977
+19. on :: IN :: B-PP :: 0.7001916601584665
+20. spends :: VBZ :: B-NP :: 0.574986265945841
+21. above :: IN :: B-PP :: 0.892682912471731
+22. INR5000 :: PRP :: B-NP :: 0.9723012982987962
+23. , :: , :: O :: 0.9370246754144494
+24. log :: VBP :: B-VP :: 0.9514809898977233
+25. on :: IN :: B-PRT :: 0.6366427524078201
+26. to :: TO :: B-VP :: 0.8109025767368283
+27. m :: VB :: I-VP :: 0.9509670530424059
+28. .sc.com/in :: IN :: B-PP :: 0.8368048746321832
+29. -T&C :: JJ :: B-NP :: 0.9586675274671085
+30. Apply :: NNP :: I-NP :: 0.9761981972049237
+31. . :: . :: O :: 0.9900730645053797
+
+
+Parses
+1. (TOP (S (S (VP (VB Thank) (NP (PRP you)) (PP (IN for) (S (VP (VBG using) (NP (NNP StanChart) (NNP Card)) (NP (DT No) (NNP XX4275)) (PP (IN on) (NP (CD 23/07/15))) (PP (IN for) (NP (NNP INR)))))))) (. 202.80.) (VP (TO To) (VP (VB check) (NP (NNP EMI) (NN eligibility)) (PP (IN on) (NP (NP (NNS spends)) (PP (IN above) (NP (NP (JJ INR5000,) (NN log)) (PP (IN on) (S (VP (TO to) (VP (VB m.sc.com/in) (NP (NNP -T&C) (NNP Apply.))))))))))))))
+
+

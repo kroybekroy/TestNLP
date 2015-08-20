@@ -1,0 +1,96 @@
+Data
+
+
+Sentences
+1. Thank you for using Debit Card ending 0703 for Rs.2310.00 in KOLKATA at SPICE OF JOY on 2015-07-25:22:33:53  Avl bal: Rs.22398.88
+
+
+Tokens
+1. Thank
+2. you
+3. for
+4. using
+5. Debit
+6. Card
+7. ending
+8. 0703
+9. for
+10. Rs.2310.00
+11. in
+12. KOLKATA
+13. at
+14. SPICE
+15. OF
+16. JOY
+17. on
+18. 2015-07-25
+19. :22:33
+20. :53
+21. Avl
+22. bal
+23. :
+24. Rs.22398.88
+
+
+POS Tags [Token :: Tag]
+1. Thank :: VB
+2. you :: PRP
+3. for :: IN
+4. using :: VBG
+5. Debit :: NNP
+6. Card :: NNP
+7. ending :: VBG
+8. 0703 :: CD
+9. for :: IN
+10. Rs.2310.00 :: CD
+11. in :: IN
+12. KOLKATA :: NNP
+13. at :: IN
+14. SPICE :: NNP
+15. OF :: IN
+16. JOY :: NNP
+17. on :: IN
+18. 2015-07-25 :: CD
+19. :22:33 :: CD
+20. :53 :: IN
+21. Avl :: JJ
+22. bal :: JJ
+23. : :: :
+24. Rs.22398.88 :: CD
+
+
+Name Finds
+1. 0703
+
+
+Chunks [Token :: Tag :: Chunk :: Confidence Probability]
+1. Thank :: VB :: B-VP :: 0.9716187838509357
+2. you :: PRP :: B-NP :: 0.9822967280127711
+3. for :: IN :: B-PP :: 0.9436341129605526
+4. using :: VBG :: B-VP :: 0.950161475973938
+5. Debit :: NNP :: B-NP :: 0.9743132747535304
+6. Card :: NNP :: I-NP :: 0.9482628731970664
+7. ending :: VBG :: B-VP :: 0.9751436003556119
+8. 0703 :: CD :: B-NP :: 0.9553285669602778
+9. for :: IN :: B-PP :: 0.887082150020533
+10. Rs.2310.00 :: CD :: B-NP :: 0.9763839083094429
+11. in :: IN :: B-PP :: 0.9468502990622403
+12. KOLKATA :: NNP :: B-NP :: 0.968869531334855
+13. at :: IN :: B-PP :: 0.942733256024866
+14. SPICE :: NNP :: B-NP :: 0.9852414677182908
+15. OF :: IN :: B-PP :: 0.9039307790822023
+16. JOY :: NNP :: B-NP :: 0.9913753094141537
+17. on :: IN :: B-PP :: 0.930929110264008
+18. 2015-07-25 :: CD :: B-NP :: 0.9731255902791821
+19. :22:33 :: CD :: I-NP :: 0.9688639096769379
+20. :53 :: IN :: B-PP :: 0.9148942277450587
+21. Avl :: JJ :: B-NP :: 0.9191548481455594
+22. bal :: JJ :: I-NP :: 0.932956523437596
+23. : :: : :: O :: 0.7055553613077041
+24. Rs.22398.88 :: CD :: O :: 0.7294095950287486
+
+
+Parses
+1. (TOP (VP (VB Thank) (NP (PRP you)) (PP (IN for) (S (VP (VBG using) (NP (NP (NNP Debit) (NNP Card)) (VP (VBG ending) (NP (CD 0703)) (PP (IN for) (NP (NP (CD Rs.2310.00)) (PP (IN in) (NP (NNP KOLKATA))))) (PP (IN at) (NP (NP (NNP SPICE)) (PP (IN OF) (NP (NP (NNP JOY)) (PP (IN on) (NP (CD 2015-07-25:22:33:53) (JJ Avl) (NN bal:)))))))))))) (. Rs.22398.88)))
+
+

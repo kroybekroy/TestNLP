@@ -1,0 +1,21 @@
+Transaction
+-----------
+Organization : Address of SMS and Organization name in SMS
+Date and Time of Transaction : Date and Time of Reception of SMS and Date and Time of Transaction in SMS
+Place of Transaction : Place of Reception of SMS and Place of Transaction in SMS
+Type of Place of Transaction : ATM, Restaurant, Shopping Mall e.t.c
+Type of Transaction : Debit, Credit
+Account Type : Credit Card, Debit Card, Savings Account e.t.c : Preceeds Account Number 
+Account Number : In Integer usually preceeded by X...
+Amount : In Decimal Preceeded by Currency
+
+Bill
+----
+Organization : Address of SMS and Organization name in SMS
+Date and Time of Bill : Date and Time of Reception of SMS and Date and Time of Bill Generation
+Account Number
+Amount
+Due Date
+
+---
+SELECT distinct s.body FROM `sms_pos_tag` t inner join `sms` s on t.sms_id = s.id

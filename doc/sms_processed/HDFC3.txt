@@ -1,0 +1,88 @@
+Data
+
+
+Sentences
+1. Rs.2000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-30:09:29:47 at +SALT LAKE SEC-V BRANCH.
+2. Avl bal: Rs.20398.88
+
+
+Tokens
+1. Rs.2000.00
+2. was
+3. withdrawn
+4. using
+5. your
+6. HDFC
+7. Bank
+8. Card
+9. ending
+10. 0703
+11. on
+12. 2015-07-30:09:29:47
+13. at
+14. +SALT
+15. LAKE
+16. SEC-V
+17. BRANCH.
+18. Avl
+19. bal
+20. :
+21. Rs.20398.88
+
+
+POS Tags [Token :: Tag]
+1. Rs.2000.00 :: PRP
+2. was :: VBD
+3. withdrawn :: VBN
+4. using :: VBG
+5. your :: PRP$
+6. HDFC :: NNP
+7. Bank :: NNP
+8. Card :: NNP
+9. ending :: VBG
+10. 0703 :: CD
+11. on :: IN
+12. 2015-07-30:09:29:47 :: CD
+13. at :: IN
+14. +SALT :: NNP
+15. LAKE :: NNP
+16. SEC-V :: NNP
+17. BRANCH. :: NNP
+18. Avl :: NNP
+19. bal :: JJ
+20. : :: :
+21. Rs.20398.88 :: CD
+
+
+Name Finds
+1. 0703
+
+
+Chunks [Token :: Tag :: Chunk :: Confidence Probability]
+1. Rs.2000.00 :: PRP :: B-NP :: 0.9841803401844199
+2. was :: VBD :: B-VP :: 0.9570508333945605
+3. withdrawn :: VBN :: I-VP :: 0.9275191632106063
+4. using :: VBG :: I-VP :: 0.7742829413680604
+5. your :: PRP$ :: B-NP :: 0.9097112348161843
+6. HDFC :: NNP :: I-NP :: 0.9587239718037828
+7. Bank :: NNP :: I-NP :: 0.9697785093321326
+8. Card :: NNP :: I-NP :: 0.9554252071562435
+9. ending :: VBG :: B-VP :: 0.9760505536310681
+10. 0703 :: CD :: B-NP :: 0.9603454462291816
+11. on :: IN :: B-PP :: 0.9104129126588616
+12. 2015-07-30:09:29:47 :: CD :: B-NP :: 0.9758348355211531
+13. at :: IN :: B-PP :: 0.9440409797335718
+14. +SALT :: NNP :: B-NP :: 0.98220624808547
+15. LAKE :: NNP :: I-NP :: 0.9768223499264468
+16. SEC-V :: NNP :: I-NP :: 0.959472993273457
+17. BRANCH. :: NNP :: I-NP :: 0.9708650761422187
+18. Avl :: NNP :: I-NP :: 0.9470227384309104
+19. bal :: JJ :: I-NP :: 0.8333752609148777
+20. : :: : :: O :: 0.8761872871149488
+21. Rs.20398.88 :: CD :: O :: 0.7294095950287486
+
+
+Parses
+1. (TOP (S (NP (CD Rs.2000.00)) (VP (VBD was) (VP (VBN withdrawn) (S (VP (VBG using) (NP (NP (PRP$ your) (NNP HDFC) (NNP Bank) (NNP Card)) (VP (VBG ending) (NP (CD 0703)) (PP (IN on) (NP (CD 2015-07-30:09:29:47))) (PP (IN at) (NP (NNP +SALT) (NNP LAKE) (NNP SEC-V) (NNP BRANCH.) (NNP Avl) (NN bal:))))))))) (. Rs.20398.88)))
+
+

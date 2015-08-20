@@ -3,6 +3,7 @@ package TestNLPPackage;
 import java.io.*;
 import java.nio.charset.*;
 import java.sql.*;
+import java.util.regex.*;
 
 import opennlp.tools.chunker.*;
 import opennlp.tools.cmdline.parser.ParserTool;
@@ -20,57 +21,66 @@ public class MyClass {
 		// TODO Auto-generated method stub
 
 		String query = "";
+		query = "SELECT id, body FROM `sms` WHERE address NOT LIKE '+%'";
+		
+		String fileName = "";
+		fileName = "NLP.txt"; 
 
 		try {
-			query = "SELECT id, body FROM `sms` WHERE ADDRESS NOT LIKE '+91%'";
-
 			ResultSet objResultSet = GetData(query);
 
-			/*
-			 * try { PrintStream out = new PrintStream(new FileOutputStream(
-			 * "NLP.txt")); System.setOut(out); } catch (FileNotFoundException
-			 * e) { // TODO Auto-generated catch block e.printStackTrace(); }
-			 */
-
-			// ShowData(" :: CD");
+			/* Unblock this code if you want to write to a text file */
+			 try 
+			 { 
+				 	PrintStream out = new PrintStream(new FileOutputStream(fileName)); 
+				 	System.setOut(out); 
+			 } 
+			 catch (FileNotFoundException e) 
+			 { 
+				 // TODO Auto-generated catch block 
+				 e.printStackTrace();
+			 }
+			 
 
 			while (objResultSet.next()) {
-
-				// String data = "  First sentence. Second sentence. ";
-				// "Rs.1000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-06-01:09:33:20 at +SALT LAKE SEC-V BRANCH. Avl bal: Rs.63522.60";
 				String data = objResultSet.getString("body");
+			 	//String data = "Thank you for using StanChart Card No XX4275 on 05/04/15 for INR 842.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.";
+			 
+				System.out.print(data);
 
-				// System.out.print("Data\n");
+				 int score = ValidateData(data);
+				 
+				 if (score >= 2) {
+					 
+					//SentenceDetectorMethod(data);
 
-				// System.out.print(data + "\n");
+					String tokens[] = TokenizerMethod(data);
 
-				SentenceDetectorMethod(data);
+					String tags[] = POSTaggerMethod(tokens);				
 
-				String tokens[] = TokenizerMethod(data);
+					 //NameFinderMethod(tokens);
 
-				String tags[] = POSTaggerMethod(tokens);
+					 //DocumentCategorizerMethod(data);
 
-				String tag = "";
+					 String chunks[] = ChunkerMethod(tokens, tags);
+					 
+					//ParserMethod(data);
+						
+					 //ShowData(" :: CD", fileName);
+					 
+					for (int i = 0; i < tokens.length; i++) {
+						query = "INSERT INTO sms_pos_tag(sms_id, token, tag, chunk) SELECT "
+								+ objResultSet.getString("id")
+								+ ", '"
+								+ tokens[i]
+								+ "', '"
+								+ tags[i]
+								+ "', '"
+								+ chunks[i] + "'";
 
-				for (int i = 0; i < tags.length; i++) {
-					//tag = tag + " || " + (i + 1) + ". " + tokens[i] + " :: " + tags[i];
-					query = "INSERT INTO sms_pos_tag(sms_id, tag, pos) SELECT " + objResultSet.getString("id") + ", '" + tokens[i] + "', '" + tags[i] + "'";
-					
-					SetData(query);
+						SetData(query);
+					}
 				}
-
-				//query = "UPDATE sms SET tags = '" + tag + "' WHERE id = '"
-				//		+ objResultSet.getString("id") + "'";
-
-				//SetData(query);
-
-				// NameFinderMethod(tokens);
-
-				// DocumentCategorizerMethod(data);
-
-				// ChunkerMethod(tokens, tags);
-
-				// ParserMethod(data);
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -125,11 +135,11 @@ public class MyClass {
 
 			tokens = tokenizer.tokenize(data);
 
-			System.out.print("\n\nTokens\n");
+			//System.out.print("\n\nTokens\n");
 
-			for (int i = 0; i < tokens.length; i++) {
+			/*for (int i = 0; i < tokens.length; i++) {
 				System.out.print((i + 1) + ". " + tokens[i] + "\n");
-			}
+			}*/
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -159,12 +169,12 @@ public class MyClass {
 
 			tags = tagger.tag(tokens);
 
-			System.out.print("\n\nPOS Tags [Token :: Tag]\n");
+			//System.out.print("\n\nPOS Tags [Token :: Tag]\n");
 
-			for (int i = 0; i < tags.length; i++) {
+			/*for (int i = 0; i < tags.length; i++) {
 				System.out.print((i + 1) + ". " + tokens[i] + " :: " + tags[i]
 						+ "\n");
-			}
+			}*/
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -262,13 +272,12 @@ public class MyClass {
 
 			double[] probs = chunker.probs();
 
-			System.out
-					.print("\n\nChunks [Token :: Tag :: Chunk :: Confidence Probability]\n");
+			//System.out.print("\n\nChunks [Token :: Tag :: Chunk :: Confidence Probability]\n");
 
-			for (int i = 0; i < chunks.length; i++) {
+			/*for (int i = 0; i < chunks.length; i++) {
 				System.out.print((i + 1) + ". " + tokens[i] + " :: " + tags[i]
 						+ " :: " + chunks[i] + " :: " + probs[i] + "\n");
-			}
+			}*/
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -374,16 +383,16 @@ public class MyClass {
 		}
 	}
 
-	public static void ShowData(String search) {
+	public static void ShowData(String search, String filename) {
 		BufferedReader br = null;
 
 		try {
-			br = new BufferedReader(new FileReader("NLP.txt"));
+			br = new BufferedReader(new FileReader(filename));
 
 			String line = null;
 
 			while ((line = br.readLine()) != null) {
-				if (line.endsWith(search)) {
+				if (line.contains(search)) {
 					System.out.println(line);
 				}
 			}
@@ -393,5 +402,25 @@ public class MyClass {
 			e.printStackTrace();
 		}
 	}
-
+	
+	public static int ValidateData(String data)
+	{		
+		int score = 0;
+		
+		Pattern pCurrency = Pattern.compile("\\d{1,3}(,\\d{2,3})*\\.\\d{1,2}");
+		Pattern pNumber = Pattern.compile("[0-9]{4,}");
+		
+		Matcher mCurrency = pCurrency.matcher(data);
+		
+		if(mCurrency.find())
+			score += 1;
+		
+		Matcher mNumber = pNumber.matcher(data);
+		
+		if(mNumber.find())
+			score += 1;
+		
+		return score;
+	}
+	
 }

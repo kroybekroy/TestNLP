@@ -1,0 +1,2962 @@
+_id : 1051
+address : VK-VFCARE
+date : 1438535735847
+subject : null
+body : You have used 80% of the internet pack on your number 919051045105. You still have 409.27 MB balance. Dial *111# to check balance.
+------------------------------------------------------
+_id : 1050
+address : 139
+date : 1438511832110
+subject : null
+body : PNR 6744392317
+Train  :13114 - HAZARDUARI EXP
+Dt :2-8-2015
+BoardingStn :BPC
+ReservedUpTo :KOAA
+CLASS :2S
+P1 Cur Stat :D2  , 25 ;
+P2 Cur Stat :D2  , 36 ;
+ChartStatus : PREPARED
+Coach Position :NA
+Schd Dep.Time :17 :00 hrs.
+To know the current position of your train, send SPOT (train number) to 139.
+------------------------------------------------------
+_id : 1048
+address : DD-IRSMSA
+date : 1438509152103
+subject : null
+body : PNR-6744392317
+Trn-13114
+Dt:02-08-2015
+Frm BPC to KOAA
+Cls-2S
+P1-D2,25
+P2-D2,36
+Chart Prepared
+------------------------------------------------------
+_id : 1047
+address : VK-HDFCBK
+date : 1438496628089
+subject : null
+body : Link Aadhaar No. to your HDFC Bank A/c ending with 5729 & confirm address in your a/c for  KYC. SMS AR < Aadhaar No.>  < Y > to 5676712 .
+------------------------------------------------------
+_id : 1046
+address : VK-FROMSC
+date : 1438425034145
+subject : null
+body : Your monthly credit card e-statement sent to your registered Email ID(s) has bounced. Please contact helpline for further assistance - StanChart
+------------------------------------------------------
+_id : 1045
+address : BW-IRCTCi
+date : 1438410240533
+subject : null
+body : Your Tkt Cancelled. PNR, 
+6443129616, Amt 120 will be refunded in your account.
+------------------------------------------------------
+_id : 1044
+address : VM-HDFCBK
+date : 1438410167163
+subject : null
+body : An amount of Rs.204.20 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 1043
+address : BW-IRCTCi
+date : 1438410073018
+subject : null
+body : PNR:6744392317,TRAIN:13114,DOJ:02-08-15,2S,BPC-KOAA,Dep:17:00,
+D DAS+1,CNF,CNF,
+Fare:170,SC:22.8+PG CHGS
+------------------------------------------------------
+_id : 1042
+address : VK-BJAZGI
+date : 1438409731872
+subject : null
+body : Dear Customer, motor insurance policy for your POLO is due for renewal on 02-AUG-2015. Kindly renew now to ensure continuity of insurance cover. For more information on an exclusive offer and premium payment option by credit card over phone pls. call Volkswagen Insurance Services on 1800-209-6262.To Renew NOW Click http://tinyurl.com/psxo79y Kindly ignore if already renewed
+------------------------------------------------------
+_id : 1041
+address : VM-YESBNK
+date : 1438409331064
+subject : null
+body : Avbl Bal as on 01-Aug-2015 11:37:36 in your A/C. No.XX2915 is INR 419,008.11, Tot. avbl bal (including linked deposits and Limit) is INR 419,008.11.
+------------------------------------------------------
+_id : 1040
+address : VM-HDFCBK
+date : 1438349644317
+subject : null
+body : NEFT Transaction with reference number N212150084551292 for INR 1,000.00 has been credited to the beneficiary account on 31-07-2015 at 13:42:39.
+------------------------------------------------------
+_id : 1039
+address : VM-HDFCBK
+date : 1438336409646
+subject : null
+body : Salary of INR 67,505.00 credited to A/c XXXXXXXXXX5729 towards SALJUL15                 SALJUL15 Value 31-JUL-2015 . Check A/c for balance
+------------------------------------------------------
+_id : 1038
+address : VM-HDFCBK
+date : 1438325867381
+subject : null
+body : An amount of Rs.1,000.00 has been debited from your account number XXXX5729 for NEFT txn done using HDFC Bank NetBanking
+------------------------------------------------------
+_id : 1037
+address : VM-HDFCBK
+date : 1438325840049
+subject : null
+body : One Time Password for NetBanking Transaction is 660046. Please use the password to complete the Transaction. Pls do not share this with anyone. Ref No- XXXX4795
+------------------------------------------------------
+_id : 1036
+address : VK-ISECLD
+date : 1438321397559
+subject : null
+body : URN for password request placed at www.icicidirect.com is 68367284. Visit Customer Service page - Generate Password online link.
+------------------------------------------------------
+_id : 1035
+address : VM-OLACAB
+date : 1438254144531
+subject : null
+body : Ola! Your total bill for CRN105838667 is Rs 267. Your invoice is on its way to your e-mail d_debojyoti@rediffmail.com. Call us on 033-33553355 for any help.
+------------------------------------------------------
+_id : 1034
+address : VM-OLACAB
+date : 1438250647579
+subject : null
+body : Ola! Your cab has arrived. While we regret the delay, let's make up by giving you an awesome ride.
+------------------------------------------------------
+_id : 1033
+address : VM-OLACAB
+date : 1438249927020
+subject : null
+body : Say Ola to your driver UPENDER KR  SHAW  (9038896526) for CRN105838667. White Tata indigo WB 04 G 0031  to pick you up @ 3:24 PM, 30Jul. Please share https://www.olacabs.com/track/934tu2bfa with friends/family and let them track you. Call 033-33553355 if you need help.
+------------------------------------------------------
+_id : 1032
+address : VM-SBIINB
+date : 1438249775699
+subject : null
+body : OTP for transaction Avenues India Pvt. Ltd is:81189675. Do not share it with anyone
+------------------------------------------------------
+_id : 1031
+address : BX-SBIINB
+date : 1438249435741
+subject : null
+body : Thank you for using State Bank Internet Banking. Your Transaction Ref No IG0ALFQDI9 for Rs.200.0 on 30/07/2015 03:13:52
+------------------------------------------------------
+_id : 1030
+address : VM-SBIINB
+date : 1438249403678
+subject : null
+body : OTP for transaction Avenues India Pvt. Ltd is:77246298. Do not share it with anyone
+------------------------------------------------------
+_id : 1029
+address : VK-HDFCBK
+date : 1438248984950
+subject : null
+body : You have added/modified a beneficiary Balaram Goswami to your HDFC Bank NetBanking NEFT Module for funds transfer
+------------------------------------------------------
+_id : 1028
+address : VM-HDFCBK
+date : 1438248959361
+subject : null
+body : One Time Password for NetBanking Transaction is 189042. Please use the password to complete the Transaction. Pls do not share this with anyone. Ref No- XXXX9785
+------------------------------------------------------
+_id : 1027
+address : +919433233555
+date : 1438231014251
+subject : null
+body : *in d name of Manisha Bhaumik!
+------------------------------------------------------
+_id : 1026
+address : +919433233555
+date : 1438230891433
+subject : null
+body : Balaram Goswami, s/b a/c no. 11871059643, IFSC : SBIN0007217. Please transfer INR 1000 by today.
+------------------------------------------------------
+_id : 1025
+address : VK-HDFCBK
+date : 1438228865824
+subject : null
+body : Rs.2000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-30:09:29:47 at +SALT LAKE SEC-V BRANCH. Avl bal: Rs.20398.88
+------------------------------------------------------
+_id : 1024
+address : +919903039151
+date : 1438193125273
+subject : null
+body : ok
+------------------------------------------------------
+_id : 1022
+address : +919903039151
+date : 1438174412119
+subject : null
+body : FIFO documente last je reviewgulo pathiyechilam, kore pathiyechile?
+------------------------------------------------------
+_id : 1021
+address : VK-CESCLM
+date : 1438144739927
+subject : null
+body : Dear Consumer, share your views & suggestions with our MD. Chat live on 29th July 15 from 4-5pm by logging on to www.facebook.com/CESCLtd or www.cesc.co.in
+------------------------------------------------------
+_id : 1020
+address : MD-UBERIN
+date : 1438012755299
+subject : null
+body : Just flash your Uber receipt and unlock exciting offers across malls in Kolkata this week. Details: https://newsroom.uber.com/kolkata/?p=202
+------------------------------------------------------
+_id : 1019
+address : VK-CBSSBI
+date : 1437873687361
+subject : null
+body : Your AC XXXXX379095 Debited INR 5,000.00 on 26/07/15 -DIRECT DR . Avl Bal INR 9,488.93
+------------------------------------------------------
+_id : 1018
+address : VM-HDFCBK
+date : 1437843837232
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.2310.00 in KOLKATA at SPICE OF JOY on 2015-07-25:22:33:53  Avl bal: Rs.22398.88
+------------------------------------------------------
+_id : 1017
+address : VK-CBSSBI
+date : 1437842136804
+subject : null
+body : EMI due on09072015 a/c XXXXX798047 has not been paid. Please pay immediately. Please ignore, if paid.
+------------------------------------------------------
+_id : 1016
+address : VM-HDFCBK
+date : 1437835330313
+subject : null
+body : Rs.1900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-25:20:11:59 at +SBI SANTOSHPUR. Avl bal: Rs.24708.88
+------------------------------------------------------
+_id : 1015
+address : VM-HDFCBK
+date : 1437822058244
+subject : null
+body : An amount of Rs.12,012.00 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 1014
+address : BP-SBIINB
+date : 1437819588000
+subject : null
+body : Thank you for using State Bank Internet banking. Your Transaction Ref No IH24607618 for Rs.12 on 25-JUL-15 15:47
+------------------------------------------------------
+_id : 1013
+address : VK-CBSSBI
+date : 1437819466500
+subject : null
+body : Available Balance in your Account XXXXX379095 as on 25/07/15 is INR 14,488.93
+------------------------------------------------------
+_id : 1012
+address : VK-CBSSBI
+date : 1437819341256
+subject : null
+body : Available Balance in your Account XXXXX379095 as on 25/07/15 is INR 14,500.93
+------------------------------------------------------
+_id : 1011
+address : BX-SBIINB
+date : 1437819329572
+subject : null
+body : Thank you for using State Bank Internet banking. Your Transaction Ref No IH24607455 for Rs.330 on 25-JUL-15 15:44
+------------------------------------------------------
+_id : 1010
+address : VM-YESBNK
+date : 1437804539520
+subject : null
+body : Avbl Bal as on 25-Jul-2015 11:37:10 in your A/C. No.XX2915 is INR 419,008.11, Tot. avbl bal (including linked deposits and Limit) is INR 419,008.11.
+------------------------------------------------------
+_id : 1008
+address : +919903039151
+date : 1437760301797
+subject : null
+body : https://hellotext.com/map/c5us1qud
+thanks (Kolkata)
+------------------------------------------------------
+_id : 1006
+address : +919903039151
+date : 1437745701011
+subject : null
+body : Amake aj eksomoye oi FIFO queue monitoringer je note gulo nile, segulo ektu pathoye dao
+------------------------------------------------------
+_id : 1005
+address : DD-DOMINO
+date : 1437706869946
+subject : null
+body : Dominos Super Value Friday;Buy 1 Pizza & Get 1 Pizza FREE Only TODAY;Call@68886888 /OrderOnline@ dominos.co.in /Mobile@ http://apps.dominos.co.in Cpn:MOB06;T&C
+------------------------------------------------------
+_id : 1004
+address : MD-UBERIN
+date : 1437680512403
+subject : null
+body : Uber Ice Cream is here to make your day sweeter! July 24 from 11am - 5pm order London Dairy Premium Ice Cream on the Uber App. Details: t.uber.com/icecreamind
+------------------------------------------------------
+_id : 1003
+address : MD-UBERIN
+date : 1437680497692
+subject : null
+body : Uber Ice Cream is here to make your day sweeter! July 24 from 11am - 5pm order London Dairy Premium Ice Cream on the Uber App. Details: t.uber.com/icecreamind
+------------------------------------------------------
+_id : 1002
+address : +919920938809
+date : 1437662571283
+subject : null
+body : Tore kotha sune abnormal lagche..don't mind hain
+------------------------------------------------------
+_id : 1001
+address : +919920938809
+date : 1437662540976
+subject : null
+body : Ha ha ha
+------------------------------------------------------
+_id : 999
+address : +919920938809
+date : 1437662472691
+subject : null
+body : Tui ki drink kore khilli korchis ? Didi bolche mone hoche drink kore firche :P
+------------------------------------------------------
+_id : 998
+address : VM-ICICIB
+date : 1437658865780
+subject : null
+body : Dear Customer, Joint Account holders details for Account XX2171 have to be updated urgently in our records. Pls visit branch with Joint Account holder ID proof before 15-Aug.
+------------------------------------------------------
+_id : 997
+address : VM-FROMSC
+date : 1437653595423
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 23/07/15 for INR 202.80. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 996
+address : BW-IRCTCi
+date : 1437653451989
+subject : null
+body : PNR:6443129616,TRAIN:13018,DOJ:02-08-15,2S,SNT-HWH,Dep:17:48,
+D DAS+1,D3 85,D3 86,
+Fare:180,SC:22.8+PG CHGS
+------------------------------------------------------
+_id : 995
+address : VM-FROMSC
+date : 1437653403795
+subject : null
+body : Your One-Time Password (OTP) is 188432 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 994
+address : VM-HDFCBK
+date : 1437640280907
+subject : null
+body : Effective 1st Aug,15, Fuel Surcharge waiver benefit on HDFC Bank Corporate Credit Card will be capped at Rs.500 per stmt. Visit www.hdfcbank.com for details
+------------------------------------------------------
+_id : 993
+address : VM-HDFCBK
+date : 1437566154127
+subject : null
+body : Rs.1900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-22:17:25:48 at +IDBI SALT LAKE BRNHHS. Avl bal: Rs.38620.88
+------------------------------------------------------
+_id : 992
+address : BW-IRCTCi
+date : 1437418106054
+subject : null
+body : PNR:6443032307,TRAIN:53047,DOJ:30-07-15,CC,HWH-SNT,Dep:16:40,
+D DAS+1,C1 14,C1 13,
+Fare:650,SC:45.6+PG CHGS
+------------------------------------------------------
+_id : 991
+address : BW-IRCTCi
+date : 1437417803610
+subject : null
+body : PNR:6443032307,TRAIN:53047,DOJ:30-07-15,CC,HWH-SNT,Dep:16:40,
+D DAS+1,C1 14,C1 13,
+Fare:650,SC:45.6+PG CHGS
+------------------------------------------------------
+_id : 990
+address : VM-FROMSC
+date : 1437415101052
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 20/07/15 for INR 6031.00. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 989
+address : AM-CLRTRP
+date : 1437414805442
+subject : null
+body : Trip ID: 15072093204
+Anupa Das
+-
+23 Oct 15, 18:10
+SpiceJet, 517
+PNR: J71WQM
+------------------------------------------------------
+_id : 988
+address : VM-FROMSC
+date : 1437414799707
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 20/07/15 for INR 695.60. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 987
+address : VM-FROMSC
+date : 1437414768669
+subject : null
+body : Your One-Time Password (OTP) is 314017 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 986
+address : VM-FROMSC
+date : 1437414543974
+subject : null
+body : Your One-Time Password (OTP) is 219971 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 985
+address : VM-JetAir
+date : 1437410191075
+subject : null
+body : Dear Guest, Pls note 9W662 will leave CCU on 02Oct15 at 1050hrs and reach BLR at 1315hrs.
+------------------------------------------------------
+_id : 984
+address : MD-UBERIN
+date : 1437398205109
+subject : null
+body : Earn upto 100 FREE rides by sharing your invite code! Offer extended till July 26, 2015. #KeepKolkataMoving this monsoon. Details: https://goo.gl/17Hnw6.
+------------------------------------------------------
+_id : 983
+address : +919830930615
+date : 1437364982785
+subject : null
+body : Ok
+------------------------------------------------------
+_id : 980
+address : +919830930615
+date : 1437361883706
+subject : null
+body : Aaj ki tomra ofc e jacho?
+------------------------------------------------------
+_id : 979
+address : AM-UBERIN
+date : 1437239903376
+subject : null
+body : Earn upto 100 FREE Uber rides by sharing your invite code! Valid till July 19, 2015. Hurry Up! Details: https://newsroom.uber.com/kolkata/2015/07/kkm
+------------------------------------------------------
+_id : 978
+address : VK-HDFCBK
+date : 1437236586097
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.2140.00 in KOLKATA at METRO CASH AND CARRY I on 2015-07-18:21:53:00  Avl bal: Rs.40520.88
+------------------------------------------------------
+_id : 977
+address : VK-HDFCBK
+date : 1437226923484
+subject : null
+body : Rs.1900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-18:19:11:57 at +SBI SANTOSHPUR. Avl bal: Rs.42660.88
+------------------------------------------------------
+_id : 976
+address : VM-YESBNK
+date : 1437201032628
+subject : null
+body : Avbl Bal as on 18-Jul-2015 12:00:21 in your A/C. No.XX2915 is INR 419,008.11, Tot. avbl bal (including linked deposits and Limit) is INR 419,008.11.
+------------------------------------------------------
+_id : 975
+address : VK-HDFCBK
+date : 1437197370703
+subject : null
+body : Link Aadhaar No. to your HDFC Bank A/c ending with 5729 & confirm address in your a/c for  KYC. SMS AR < Aadhaar No.>  < Y > to 5676712 .
+------------------------------------------------------
+_id : 974
+address : VK-BJAZGI
+date : 1437196539509
+subject : null
+body : Dear Sir/Mam,Your policy OG-15-2401-1801-00022823 is due on 02/08/2015.Pls contact your Agent / Call 18002095858 / SMS RENEWGEN@9773500500.Ignore if paid.BajajAllianz. Join us on Facebook: http://goo.gl/dWZdyR & Twitter: http://goo.gl/U7VDsk
+------------------------------------------------------
+_id : 973
+address : VK-DOMINO
+date : 1437193672649
+subject : null
+body : Dominos Festive Treat; Try Chef's Inspiration-Exotic Italian Pizzas & Get 20% OFF on 400 TODAY. Call@68886888 /OrderOnline/Mobile@ dominos.co.in Cpn: MOB03 T&C
+------------------------------------------------------
+_id : 972
+address : Vodafone
+date : 1437190553715
+subject : null
+body : Hello ! Payment of Rs. 768.7 has been credited to your Vodafone account. CHQ payments if any is subject to realization. Thank you.
+------------------------------------------------------
+_id : 971
+address : VM-FROMSC
+date : 1437187714111
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/07/15 for INR 288.42. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 970
+address : VM-FROMSC
+date : 1437187548606
+subject : null
+body : Your One-Time Password (OTP) is 161332 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 969
+address : VM-FROMSC
+date : 1437187523013
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/07/15 for INR 768.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 968
+address : My Vodafone
+date : 1437187344171
+subject : null
+body : Hello! We have received your request. 1764351558 is the request number for your reference.Thank you.
+------------------------------------------------------
+_id : 967
+address : VM-FROMSC
+date : 1437187305183
+subject : null
+body : Your One-Time Password (OTP) is 218245 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 966
+address : VM-FROMSC
+date : 1437130219752
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 17/07/15 for INR 160.00. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 965
+address : VM-FROMSC
+date : 1437130052481
+subject : null
+body : Your One-Time Password (OTP) is 112192 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 964
+address : VM-FROMSC
+date : 1437129979604
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 17/07/15 for INR 2740.00. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 963
+address : VM-FROMSC
+date : 1437129781887
+subject : null
+body : Your One-Time Password (OTP) is 302502 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 962
+address : VM-FROMSC
+date : 1437129568942
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 17/07/15 for INR 910.00. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 961
+address : VM-FROMSC
+date : 1437129446919
+subject : null
+body : Your One-Time Password (OTP) is 195149 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 960
+address : VM-FROMSC
+date : 1437128315625
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 17/07/15 for INR 470.00. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 959
+address : VM-FROMSC
+date : 1437128236576
+subject : null
+body : Your One-Time Password (OTP) is 131461 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 958
+address : DZ-HPDBTL
+date : 1436951489131
+subject : null
+body : Dear Customer, Join GiveItUp movement if you can. By giving up LPG subsidy you will be gifting green cooking fuel LPG to a deprived household.
+------------------------------------------------------
+_id : 957
+address : DZ-HPDBTL
+date : 1436949473493
+subject : null
+body : Dear Customer, Join GiveItUp movement if you can. By giving up LPG subsidy you will be gifting green cooking fuel LPG to a deprived household.
+------------------------------------------------------
+_id : 956
+address : MD-PRSTGE
+date : 1436939119429
+subject : null
+body : Prestige Smart Kitchen Mega Exchange Offer Upto 65% Discount On Exchange. Hurry Last Days Visit Garia(Ganguly Bagan) Perstige. T.C. Apply Phone : 09830701111
+------------------------------------------------------
+_id : 955
+address : AM-UBERIN
+date : 1436919037420
+subject : null
+body : Dear Rider, you can now pay for Uber rides with your credit card. Simply update the app, go to the Payment tab and add your credit card. Details: t.uber.com/2fa
+------------------------------------------------------
+_id : 954
+address : +919432166398
+date : 1436905378443
+subject : null
+body : Tumi kalke kotar shomoy ofc ashbe?
+------------------------------------------------------
+_id : 953
+address : VM-CESCLM
+date : 1436869922240
+subject : null
+body : Dear Consumer, Good News!  Now Convenience Fee waived off for Debit/Credit Card payments of monthly electricity bills. Visit  http://bit.ly/1k2ZehW
+------------------------------------------------------
+_id : 952
+address : VM-CESCLM
+date : 1436869920603
+subject : null
+body : Dear Consumer, Good News!  Now Convenience Fee waived off for Debit/Credit Card payments of monthly electricity bills. Visit  http://bit.ly/1k2ZehW
+------------------------------------------------------
+_id : 951
+address : VK-UBERIN
+date : 1436801932345
+subject : null
+body : Earn upto 100 free rides by sharing your invite code! Valid till July 19, 2015. #KeepKolkataMoving this monsoon. Details: newsroom.uber.com/kolkata/2015/07/kkm
+------------------------------------------------------
+_id : 950
+address : VM-HDFCBK
+date : 1436797313156
+subject : null
+body : Rs.1900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-13:19:51:49 at PARK CIRCUS E-CORNER 3. Avl bal: Rs.44474.89
+------------------------------------------------------
+_id : 949
+address : MD-PRSTGE
+date : 1436779291436
+subject : null
+body : Prestige Smart Kitchen Mega Exchange Offer Upto 65% Discount On Exchange. Hurry Last 2 Days Visit Garia/Ganguly Bagan Perstige. T.C. Apply Phone : 09830701111
+------------------------------------------------------
+_id : 948
+address : VM-YESBNK
+date : 1436676668143
+subject : null
+body : Dear Customer, you have not transacted in your YES BANK A/c no. 0320XXXXXXX2915  for over 03 months. For uninterrupted services, kindly initiate a transaction. For details, please visit your nearest YES BANK branch or call 18002000.
+------------------------------------------------------
+_id : 947
+address : VM-HDFCBK
+date : 1436672941800
+subject : null
+body : Rs.1500.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-12:09:18:57 at +SBI  DHAKURIA (SARAT. Avl bal: Rs.46374.89
+------------------------------------------------------
+_id : 946
+address : VE-VFCARE
+date : 1436616225951
+subject : null
+body : Hello. Your e-bill for account id 1.32302186 has been sent on your registered e-mail id. The Password to open your e-bill is debo5105
+------------------------------------------------------
+_id : 945
+address : VE-VFCARE
+date : 1436616221622
+subject : null
+body : You can also view and pay your bill on www.vodafone.in/myvodafone
+------------------------------------------------------
+_id : 944
+address : VE-VFCARE
+date : 1436616207515
+subject : null
+body : Your Vodafone bill of Rs.768.70 due on 28-07-2015 has been emailed to your regd ID. Pls check Inbox & if mail is not received, pls check your Spam Box too
+------------------------------------------------------
+_id : 943
+address : VK-CPEARL
+date : 1436609587825
+subject : null
+body : Dear Customer, Chandrani Pearls stunning Earring collection available, starting @ Rs. 300. Visit ur nearest store and experience the collection. Ph 03324126800
+------------------------------------------------------
+_id : 942
+address : VK-UBERIN
+date : 1436602278040
+subject : null
+body : Enjoy FREE food & drinks! Flash your Uber receipt at your favourite hangouts before July 12, 2015 in Kolkata & unlock the offers! Details: http://goo.gl/LxF2sO
+------------------------------------------------------
+_id : 941
+address : VM-YESBNK
+date : 1436594858479
+subject : null
+body : Avbl Bal as on 11-Jul-2015 11:37:21 in your A/C. No.XX2915 is INR 419,008.11, Tot. avbl bal (including linked deposits and Limit) is INR 419,008.11.
+------------------------------------------------------
+_id : 940
+address : VK-CBSSBI
+date : 1436533072701
+subject : null
+body : EMI not recd for ur a/cXXXXX798047.Please ignore, if paid. Charges for late payment of EMI of Rs 570.00  penal intt @2% shall be debited to ur A/C
+------------------------------------------------------
+_id : 939
+address : VM-CESCLM
+date : 1436532857749
+subject : null
+body : Dear Consumer(Consumer No : 75108035074, Customer ID : 75000635292) your electricity bill for JUNE     , 2015 is scheduled to be delivered today, failing which you may contact our courier MEMORY ENTERPRISES Courier(contact no 7044020999)
+------------------------------------------------------
+_id : 938
+address : BW-FCTZEN
+date : 1436529203005
+subject : null
+body : Your Shoppers Stop FIRST CITIZEN a/c 2210 XXXX XXXX 6395 is eligible to participate in the EXCLUSIVE SALE PREVIEW which ENDS TODAY! From tomorrow EVERYONE can shop at The Up To 51% OFF SALE at Shoppers Stop, HomeStop & www.shoppersstop.com. Get additional 5% cashback on a bill of Rs 7500 or more when you shop with your Citibank Credit Cards. Stores open 10 AM onward this weekend. T&C apply
+------------------------------------------------------
+_id : 937
+address : +919883017762
+date : 1436515526725
+subject : null
+body : Meeting ses hole inform koro
+------------------------------------------------------
+_id : 936
+address : +919831096310
+date : 1436496172773
+subject : null
+body : If you guys face issues while continuing, do it remotely. No need to inform me about WFH today but need to ensure smooth flow of client servicing. I will be on at 10 am sharp. Beda and debo, please pass the msg to cp and spa teams.
+------------------------------------------------------
+_id : 935
+address : VM-HDFCBK
+date : 1436459671122
+subject : null
+body : Rs.1900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-09:22:04:24 at +SOUTH CTY MAL,PRINCE. Avl bal: Rs.47846.40
+------------------------------------------------------
+_id : 934
+address : VK-VFCARE
+date : 1436440417224
+subject : null
+body : You have used 80% of the internet pack on your number 919051045105. You still have 408.59 MB balance. Dial *111# to check balance.
+------------------------------------------------------
+_id : 933
+address : DZ-TITANN
+date : 1436439780309
+subject : null
+body : Offer closes in 5 hrs from now at World Of Titan, 48,Gariahat Road, Kol-19. Ph: 400 11701. Rush to Get extra 10% over and above the 20%-40% discount. T&C apply
+------------------------------------------------------
+_id : 932
+address : YT-SMLLtd
+date : 1436433898707
+subject : null
+body : Dear Customer, Device with SR No - 07101548F60405 . is available at Service Centre. Kindly bring the Original Job Sheet and collect within next 3Days
+------------------------------------------------------
+_id : 931
+address : AK-AIREXP
+date : 1436427267102
+subject : null
+body : Bill for your airtel mobile 9163314943 dated 21-JUN-15 for Rs 855 is due today. Please pay immediately to avoid late fee! Payment options:(a)myairtel app(b)www.airtel.in(c)ARC details-SMS ARC <pincode> to 121.Pls ignore if already paid  
+------------------------------------------------------
+_id : 930
+address : VM-CESCLM
+date : 1436421706106
+subject : null
+body : Dear Consumer(Consumer No : 75171144009, Customer ID : 75000222131) your electricity bill for JUNE     , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 929
+address : VM-CESCLM
+date : 1436421655652
+subject : null
+body : Dear Consumer(Consumer No : 75171146003, Customer ID : 75000222194) your electricity bill for JUNE     , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 928
+address : VM-CESCLM
+date : 1436421651439
+subject : null
+body : Dear Consumer(Consumer No : 75171145006, Customer ID : 75000222229) your electricity bill for JUNE     , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 927
+address : VK-CBSSBI
+date : 1436371534710
+subject : null
+body : EMI due on09072015 in a/c XXXXX798047. Please ignore, if paid.If not paid, charges for late payment of EMI ofRs.570 penal intt@2% shall be debited to ur A/C
+------------------------------------------------------
+_id : 926
+address : VM-CESCLM
+date : 1436367738134
+subject : null
+body : Dear Consumer(Consumer No : 75171145006, Customer ID : 75000222229), your electricity bill for 06/15, due date on 20/07/15, amounting to Rs.2760(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 925
+address : VM-CESCLM
+date : 1436367727175
+subject : null
+body : Dear Consumer(Consumer No : 75171144009, Customer ID : 75000222131), your electricity bill for 06/15, due date on 20/07/15, amounting to Rs.470(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 924
+address : VM-CESCLM
+date : 1436367723518
+subject : null
+body : Dear Consumer(Consumer No : 75171146003, Customer ID : 75000222194), your electricity bill for 06/15, due date on 20/07/15, amounting to Rs.920(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 923
+address : VM-CESCLM
+date : 1436367496111
+subject : null
+body : Dear Consumer(Consumer No : 75108035074, Customer ID : 75000635292), your electricity bill for 06/15, due date on 17/07/15, amounting to Rs.160(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 922
+address : VK-FROMSC
+date : 1436359127901
+subject : null
+body : Enjoy 5% cash-back on your Standard Chartered Super Value Titanium Credit Card when you spend on Fuel, telecom and Utility bills -StanChart
+------------------------------------------------------
+_id : 921
+address : VK-CBSSBI
+date : 1436348625360
+subject : null
+body : Your AC XXXXX379095 Credited INR 13,235.00 on 08/07/15 -DEP TFR . Avl Bal INR 14,830.93
+------------------------------------------------------
+_id : 920
+address : VK-HDFCBK
+date : 1436325778707
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.3017.18 in KOLKATTA at CAFE FUEL on 2015-07-08:08:47:51  Avl bal: Rs.49832.39
+------------------------------------------------------
+_id : 919
+address : VK-HDFCBK
+date : 1436325495972
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.3017.18 in KOLKATTA at CAFE FUEL on 2015-07-08:08:47:51  Avl bal: Rs.49832.39
+------------------------------------------------------
+_id : 918
+address : +919836032259
+date : 1436296477786
+subject : null
+body : Fulll gar mara geche
+------------------------------------------------------
+_id : 917
+address : BW-FCTZEN
+date : 1436282191533
+subject : null
+body : Your Shoppers Stop FIRST CITIZEN a/c 2210 XXXX XXXX 6395 is eligible to participate in the EXCLUSIVE SALE PREVIEW on 08, 09 & 10 July'15 at SHOPPERS STOP & HomeStop stores. Get adtnl 5% cashback on a bill of Rs7500 or more when you shop with your Citibank Credit Cards. Stores open 10 AM onwards. T&C apply
+------------------------------------------------------
+_id : 916
+address : AK-AIREXP
+date : 1436246912046
+subject : null
+body : Bill of Rs 855 dated 21-JUN-15 for your airtel mobile 9163314943 is due on 09-JUL-15. Please pay on time to avoid late fee! Payment options:(a)myairtel app(b)visit www.airtel.in(c)ARC details-SMS ARC <pincode> to 121.Pls ignore if already paid. 
+------------------------------------------------------
+_id : 915
+address : VM-HDFCBK
+date : 1436243364972
+subject : null
+body : INR 35,594.00 Dr to A/c No XX5729 towards ECS D-RACPC SBI-34232798047 Val 07-JUL-15. Clr Bal INR 52,849.57.
+------------------------------------------------------
+_id : 914
+address : VM-HDFCBK
+date : 1436195005591
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.1916.00 in KOLKATA at NAUTICA HOSPITALITY CO on 2015-07-06:20:33:19  Avl bal: Rs.88443.57
+------------------------------------------------------
+_id : 913
+address : VK-611112
+date : 1436156865811
+subject : null
+body : Manage your account, Pay ur Bills, Find best offers for you , All on the go ! Download MyVodafone app now! https://goo.gl/UhTxFX 
+------------------------------------------------------
+_id : 912
+address : VK-UBERIN
+date : 1436035967409
+subject : null
+body : Your Audi is arriving now! Fire up the Uber App on July 5, 2015, between 12-2 PM and drive an Audi Q3 in Kolkata. Details: newsroom.uber.com/kolkata/?p=165.
+------------------------------------------------------
+_id : 911
+address : VK-HDFCBK
+date : 1436017485852
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.1900.00 in KOLKATTA at AMBER DIGITAL on 2015-07-04:19:14:42  Avl bal: Rs.90359.57
+------------------------------------------------------
+_id : 910
+address : VM-YESBNK
+date : 1435998692558
+subject : null
+body : Avbl Bal as on 04-Jul-2015 14:01:28 in your A/C. No.XX2915 is INR 419,008.11, Tot. avbl bal (including linked deposits and Limit) is INR 419,008.11.
+------------------------------------------------------
+_id : 909
+address : VK-CBSSBI
+date : 1435967422054
+subject : null
+body : EMI due on09072015 in a/c XXXXX798047. Please ignore, if paid.If not paid, charges for late payment of EMI ofRs.570 penal intt@2% shall be debited to ur A/C
+------------------------------------------------------
+_id : 908
+address : +919830170287
+date : 1435939094839
+subject : null
+body : GHARANA CATERER,B 169 Survey Park,Sontoshpur,Kolkata 700075,Email:gharana_catt07@yahoo.co.in.Web:www. gharanacaterer.co.in: Naren Biswas:9830170287.
+------------------------------------------------------
+_id : 907
+address : VK-HDFCBK
+date : 1435913276810
+subject : null
+body : An amount of Rs.12,010.00 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 906
+address : VM-FROMSC
+date : 1435912819668
+subject : null
+body : Your order no. 10829272 for Cashback to cash redemption will get processed in 3 working days. If you have not requested please sms NOT to 9987123123. Login to online banking for order status - StanChart
+------------------------------------------------------
+_id : 905
+address : VK-HDFCBK
+date : 1435911217212
+subject : null
+body : An amount of Rs.29,147.00 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 904
+address : VK-BJAZGI
+date : 1435906944829
+subject : null
+body : Dear Sir/Mam,Your policy OG-15-2401-1801-00022823 is due on 02/08/2015.Pls contact your Agent / Call 18002095858 / SMS RENEWGEN@9773500500.Ignore if paid.BajajAllianz. Join us on Facebook: http://goo.gl/dWZdyR & Twitter: http://goo.gl/U7VDsk
+------------------------------------------------------
+_id : 903
+address : VM-Amazon
+date : 1435891581336
+subject : null
+body : Your order for TP-LINK TL-WR841N 300Mbps Wirel... is cancelled. If you have already paid, refund will be initiated shortly. Check email for more details.
+------------------------------------------------------
+_id : 902
+address : VM-CRZRNT
+date : 1435852169698
+subject : null
+body : Details of COR ID 6381382 of Kolkata on 2/Jul/2015@21:30 Hrs are Car No. 0868 WB04G,Chauffeur Name PRAKASH Jee,  919903892635.For assistance call 8882222222
+------------------------------------------------------
+_id : 901
+address : VM-CRZRNT
+date : 1435849980549
+subject : null
+body : Dear Guest, your Carzonrent Booking ID for 2/Jul/2015 Pickup in Kolkata  at 2130Hrs. is 6381382.Thank you for choosing COR.For assistance call  01141841212 
+------------------------------------------------------
+_id : 900
+address : VM-HDFCBK
+date : 1435839026616
+subject : null
+body : Effective 1st Aug,15, Fuel Surcharge waiver benefit on HDFC Bank Corporate Credit Card will be capped at Rs.500 per stmt. Visit www.hdfcbank.com for details
+------------------------------------------------------
+_id : 899
+address : VM-Amazon
+date : 1435810702695
+subject : null
+body : Pay for your failed order TP-LINK TL... by COD. Call 180030002038 or click http://www.amazon.in/d?p=zvlHYbapjTFLhrFNXt-ruZB1Hq_fE3PFTdYhcVGZpctiTao
+------------------------------------------------------
+_id : 898
+address : VM-Amazon
+date : 1435806999120
+subject : null
+body : Pay for your failed order TP-LINK TL... by COD. Call 180030002038 or click http://www.amazon.in/d?p=zvlHYbapjTFLhrFNXt-ruZB1Hq_fE3PFTdYhcVGZpctiTao
+------------------------------------------------------
+_id : 896
+address : VM-Amazon
+date : 1435805176358
+subject : null
+body : Your payment for TP-LINK TL-WR841N 300Mbps Wirel... has failed. Please visit 'Your Orders' on Amazon.in to revise payment and avoid order cancellation.
+------------------------------------------------------
+_id : 895
+address : VK-HDFCBK
+date : 1435759442388
+subject : null
+body : Rs.10000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-07-01:19:33:58 at +JADVAPUR BR. Avl bal: Rs.133445.06
+------------------------------------------------------
+_id : 894
+address : VK-FROMSC
+date : 1435748537825
+subject : null
+body : Your credit card pymt for stmt 13/06/15 is due on 06/07/15,Total due: INR 21,564.97,Minimum Due: INR 1,078.25,Please ignore if already paid-StanChart
+------------------------------------------------------
+_id : 893
+address : VK-HDFCBK
+date : 1435736793791
+subject : null
+body : Salary of INR 71,142.00 credited to A/c XXXXXXXXXX5729 towards BONUSJUN15709537         BONUSJUN1570953 Value 01-JUL-2015 . Check A/c for balance
+------------------------------------------------------
+_id : 892
+address : DM-CESCLM
+date : 1435732740954
+subject : null
+body : Dear Consumer, share your views & suggestions with our MD. Chat live on 1st July 15 from 4-5pm by logging on to www.facebook.com/CESCLtd or www.cesc.co.in.
+------------------------------------------------------
+_id : 891
+address : DM-HDFCBK
+date : 1435721318621
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.999.54 in KOLKATTA at CAFE FUEL on 2015-07-01:08:58:32  Avl bal: Rs.72303.06
+------------------------------------------------------
+_id : 890
+address : VK-YESBNK
+date : 1435712091471
+subject : null
+body : INR 7,187.12 is credited to A/C No.XX2915 on 01-JUL-15 06:23:39 - Credit Interest Capitalised .Tot avbl bal-419,008.11 on 01-Jul-15 06:21:58
+------------------------------------------------------
+_id : 889
+address : +919836032259
+date : 1435689729540
+subject : null
+body : Klke sakle calll
+------------------------------------------------------
+_id : 888
+address : BH-TITANN
+date : 1435661002182
+subject : null
+body : World Of Titan in a New Avtaar at 48, Gariahat Road, Kol-19. Ph:40011701. Discounts on Fast Track and Tommy Hilfiger Watches. Gifts on other purchase. T&C apply
+------------------------------------------------------
+_id : 887
+address : DZ-TITANN
+date : 1435660487175
+subject : null
+body : World Of Titan in a New Avtaar at 48, Gariahat Road, Kol-19. Ph:40011701. Discounts on Fast Track and Tommy Hilfiger Watches. Gifts on other purchase. T&C apply
+------------------------------------------------------
+_id : 886
+address : VM-HDFCBK
+date : 1435659327421
+subject : null
+body : Salary of INR 69,757.00 credited to A/c XXXXXXXXXX5729 towards SALJUN15709537           SALJUN15709537 Value 30-JUN-2015 . Check A/c for balance
+------------------------------------------------------
+_id : 885
+address : YT-SMLLtd
+date : 1435656755061
+subject : null
+body : Dear Customer - Your Device is received at our service centre with SR No- 07101548F60405  , kindly use this for all further queries.
+------------------------------------------------------
+_id : 884
+address : MD-kutchi
+date : 1435656222068
+subject : null
+body : Dear Customer your complaint is closed.Hope you are satisfied with the service.Kindly leave your valuable feedback, sms YES or NO to 9038633061.
+------------------------------------------------------
+_id : 883
+address : VK-CPEARL
+date : 1435571401173
+subject : null
+body : Dear Customer, Welcome the monsoons with pearl drops of purity with an exciting new collection from chandrani pearls. Prices start from 1300. Call 03324126800
+------------------------------------------------------
+_id : 882
+address : +919051526473
+date : 1435559958624
+subject : null
+body : Kirti caterer. Regd. Off 138/1 sarat bose road. Kol-29.ph no. 9163055903/9051526473. Mail to. Kirticaterer @gmail.com. We assocated with calcutta club. Calcutta rowring club & calcutta metropolition club.
+------------------------------------------------------
+_id : 881
+address : AD-FLPKRT
+date : 1435515509252
+subject : null
+body : 162556 is your Flipkart verification code. Code valid for 10 minutes only, one time use. Happy Shopping!
+------------------------------------------------------
+_id : 880
+address : VM-HDFCBK
+date : 1435510124215
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.1348.00 in KOLKATA at SPICE OF JOY on 2015-06-28:22:18:37  Avl bal: Rs.3545.60
+------------------------------------------------------
+_id : 879
+address : VM-YESBNK
+date : 1435385202034
+subject : null
+body : Avbl Bal as on 27-Jun-2015 11:36:07 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 878
+address : VK-DOMINO
+date : 1435377637725
+subject : null
+body : Hurry!Last 2 days of Dominos Super Value Online Fest;Get 50% OFF11am-5pm.Order Online@ dominos.co.in/APP@http://apps.dominos.co.in Cpn:MOB50 Vld till 28th T&C
+------------------------------------------------------
+_id : 877
+address : VK-DOMINO
+date : 1435377595854
+subject : null
+body : Hurry!Last 2 days of Dominos Super Value Online Fest;Get 50% OFF11am-5pm.Order Online@ dominos.co.in/APP@http://apps.dominos.co.in Cpn:MOB50 Vld till 28th T&C
+------------------------------------------------------
+_id : 876
+address : +919733117423
+date : 1435330557851
+subject : null
+body : From a reliable source we came to know that there's a ceremony in your house on 29.11.15 at Jadavpur Stadium (metropolitan club) 
+If you are interested to know the detail rate of our menu I may send you .
+Thanks 
+Suman Neogi
+(CONTINENTAL CATERING SERVICES)
+9733117423/ 9903991226
+suman_neogi@hotmail.com 
+------------------------------------------------------
+_id : 875
+address : VM-ALBANK
+date : 1435320506958
+subject : null
+body : Miss you in our nearest ATM to serve you better. Grateful to you for your patronage - Allahabad Bank. -- 26/06/15 17:35 - ALB 
+------------------------------------------------------
+_id : 874
+address : VM-ALBANK
+date : 1435320503834
+subject : null
+body : Your A/c XXXXXXX3512 is debited through ATM by Rs. 10,000 Total Bal : Rs. 1,61,415.48 CR  Clr Bal : Rs. 1,61,415.48 CR 26/06/2015 -- 26/06/15 17:35 - ALB 
+------------------------------------------------------
+_id : 873
+address : AM-YESBNK
+date : 1435315123922
+subject : null
+body : Please link your Aadhaar no. with your YES BANK SA a/c in order to avail Direct Benefit Transfer of LPG subsidy scheme by GoI. Visit nearest branch for details
+------------------------------------------------------
+_id : 871
+address : +919432166398
+date : 1435224041259
+subject : null
+body : Tomar brk hole akbar esho.
+------------------------------------------------------
+_id : 870
+address : VK-CBSSBI
+date : 1435137734964
+subject : null
+body : Available Balance in your Account XXXXX379095 as on 24/06/15 is INR 6,378.93
+------------------------------------------------------
+_id : 869
+address : VK-DOMINO
+date : 1435130458930
+subject : null
+body : Enjoy Dominos Appy Hours TODAY between 11am-5pm; Get 50% OFF ONLY ON Mobile APP.Download the Cool New App Now!@ http://apps.dominos.co.in Cpn: MOB50 .T&C
+------------------------------------------------------
+_id : 868
+address : VK-611112
+date : 1435127969658
+subject : null
+body : Have u tried the NEW MY VODAFONE APP ! Enjoy 24x7 Convenience pay ur bill, Recharge bonus card, Track data usage. Download nw. Click http://m.vodafone.in/vfapp
+------------------------------------------------------
+_id : 867
+address : VK-611112
+date : 1435126236526
+subject : null
+body : Pls do not respond 2 missed calls from unknown international no with prefix othr than +91 or call/SMS abt winning prizes/lottery as these may b fraudulent calls
+------------------------------------------------------
+_id : 866
+address : VK-CBSSBI
+date : 1434981321162
+subject : null
+body : Available Balance in your Account XXXXX379095 as on 22/06/15 is INR 6,393.93
+------------------------------------------------------
+_id : 865
+address : VK-CBSSBI
+date : 1434977746829
+subject : null
+body : Available Balance in your Account XXXXX379095 as on 22/06/15 is INR 6,393.93
+------------------------------------------------------
+_id : 864
+address : DM-XOOMCO
+date : 1434968747078
+subject : null
+body : Soumyadip sent you 3,516.00 INR with Xoom.com. Money on its way to State Bank of India.... Txn# X061806340365588 Reply STOP to unsubscribe.
+------------------------------------------------------
+_id : 863
+address : VM-ALBANK
+date : 1434869581988
+subject : null
+body : Your A/c XXXXXXX3512 is debited through ATM by Rs. 5,000 Total Bal : Rs. 1,71,415.48 CR  Clr Bal : Rs. 1,71,415.48 CR 21/06/2015 -- 21/06/15 12:19 - ALB 
+------------------------------------------------------
+_id : 862
+address : VM-ALBANK
+date : 1434869500650
+subject : null
+body : Miss you in our nearest ATM to serve you better. Grateful to you for your patronage - Allahabad Bank. -- 21/06/15 12:19 - ALB 
+------------------------------------------------------
+_id : 861
+address : VM-FROMSC
+date : 1434868840464
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 21/06/15 for INR 714.00. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 860
+address : VM-FROMSC
+date : 1434868696499
+subject : null
+body : Your One-Time Password (OTP) is 101751 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 859
+address : VM-FROMSC
+date : 1434860817700
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 21/06/15 for INR 1279.60. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 858
+address : VM-BMSHOW
+date : 1434860699756
+subject : null
+body : Hi Customer, Booking ID: WQF5R96. Seats: SPECIAL-O13,O12,O11,O10,O9,O8,O7, 7 seat(s) for Tanu Weds Manu Returns (U/A) on Sun, 21 Jun, 2015 4:05pm at CineMAX: Mani Square Mall (SCREEN 2). Please carry your CC/DC card which was used for booking tickets.
+------------------------------------------------------
+_id : 857
+address : VM-FROMSC
+date : 1434860658894
+subject : null
+body : Your One-Time Password (OTP) is 210191 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 856
+address : BZ-ATMSBI
+date : 1434811077669
+subject : null
+body : Rs3000 withdrawn from A/c xxxx9095 on 200615 at AXS ATM TPAN1143.Txn#2715.Avl bal Rs2877.93.
+------------------------------------------------------
+_id : 855
+address : VM-FROMSC
+date : 1434781662759
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 20/06/15 for INR 356.82. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 854
+address : VM-ALBANK
+date : 1434781630630
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 90,000 Total Bal : Rs. 1,76,415.48 CR  Clr Bal : Rs. 1,76,415.48 CR 20/06/2015 -- 20/06/15 11:54 - ALB 
+------------------------------------------------------
+_id : 853
+address : VM-FROMSC
+date : 1434781546545
+subject : null
+body : Your One-Time Password (OTP) is 173122 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 852
+address : VM-ALBANK
+date : 1434781328694
+subject : null
+body : Dear Customer, please enter OTP 507062, to complete transaction of Rs.90000. OTP Valid upto: 20/06/2015 11:52:47-AllahabadBank -- 20/06/15 11:49 - ALB
+------------------------------------------------------
+_id : 851
+address : VM-YESBNK
+date : 1434780403256
+subject : null
+body : Avbl Bal as on 20-Jun-2015 11:36:53 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 850
+address : AD-kutchi
+date : 1434697805205
+subject : null
+body : Thanks for registering your complain with Kutchina. Your docket no. is 131413035085. You will soon get a call from our service representative.
+------------------------------------------------------
+_id : 848
+address : DZ-CBSSBI
+date : 1434683715707
+subject : null
+body : LPG Subsidy of Rs. 241.68 has been credited to your A/c No.XXXXX379095 on 19/06/15
+------------------------------------------------------
+_id : 847
+address : VM-FROMSC
+date : 1434633092219
+subject : null
+body : Your monthly credit card e-statement sent to your registered Email ID(s) has bounced. Please contact helpline for further assistance - StanChart
+------------------------------------------------------
+_id : 846
+address : DM-MININB
+date : 1434602000797
+subject : null
+body : Practice Yoga: It works on the body, mind,emotions and energy. Live life to its full potential.Ministry of AYUSH, Govt. of India
+------------------------------------------------------
+_id : 844
+address : VM-HDFCBK
+date : 1434518103011
+subject : null
+body : Rs.1000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-06-17:10:45:23 at +SOUTH CITY PINNACLE. Avl bal: Rs.4808.10
+------------------------------------------------------
+_id : 843
+address : VM-HDFCBK
+date : 1434470001097
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.170.00 in KOLKATTA at ORIENTAL CUSINES, on 2015-06-16:21:23:48  Avl bal: Rs.5808.10
+------------------------------------------------------
+_id : 842
+address : VK-FROMSC
+date : 1434458276681
+subject : null
+body : Manage your account on the move with Breeze Mobile Web. Download now on your IOS/Android devices at on.sc.com/Breezedownload-IN - Stanchart
+------------------------------------------------------
+_id : 841
+address : VK-HDFCBK
+date : 1434434552336
+subject : null
+body : This is to inform you that you can now make all payments in One Click by linking HDFCBank Debit/Credit Card to HDFCBank PayZapp. PayZapp available on GooglePlay
+------------------------------------------------------
+_id : 840
+address : +919830427587
+date : 1434375357675
+subject : null
+body : Arnab Dhar. Yes Bank your new relationship manager
+------------------------------------------------------
+_id : 839
+address : VK-FROMSC
+date : 1434364729921
+subject : null
+body : Your Credit Card mini Statement as of 13/06/15 : Statement Outstanding :INR 21,564.97, Minimum Due :INR 1,078.25, Payment Due Date :06/07/15-StanChart.
+------------------------------------------------------
+_id : 838
+address : VK-CPEARL
+date : 1434355882572
+subject : null
+body : Welcome The Monsoons With Pearl Drops Of Purity With An Exciting New Collection From Chandrani Pearls. Prices Start From 1300. Call 03324126800
+------------------------------------------------------
+_id : 837
+address : BA-HPGASa
+date : 1434345170972
+subject : null
+body : HPGas Refill booking 536353 for 620224 Booking Cleared till12.Jun.2015 at ANUKKHAN FUEL SERV. Join Nation building to Giveup subsidy SMS GIVEITUP to 9766899899
+------------------------------------------------------
+_id : 836
+address : BA-HPGASa
+date : 1434341581432
+subject : null
+body : HPGas Refill booking 536353 for 620224 Booking Cleared till12.Jun.2015 at ANUKKHAN FUEL SERV. Join Nation building to Giveup subsidy SMS GIVEITUP to 9766899899
+------------------------------------------------------
+_id : 835
+address : VK-HDFCBK
+date : 1434293398577
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.514.00 in KOLKATTA at MCDONALD S, on 2015-06-14:20:18:34  Avl bal: Rs.5978.10
+------------------------------------------------------
+_id : 834
+address : MM-CHIQUE
+date : 1434261722713
+subject : null
+body : DEAR CHIQUE CUSTOMER
+GET ONE BRANDED (KCP) UMBRELLA FREE ON PURCHASE OF RS 1500/-
+ALL NEW DESIGNS OF SILVER,PEARL, BEADS & FASHION JEWELLERY
++919007055555
+------------------------------------------------------
+_id : 833
+address : Vodafone
+date : 1434258129030
+subject : null
+body : Hello ! Payment of Rs. 767.56 has been credited to your Vodafone account. CHQ payments if any is subject to realization. Thank you.
+------------------------------------------------------
+_id : 831
+address : VM-FROMSC
+date : 1434255582798
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 14/06/15 for INR 3888.44. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 830
+address : VM-FROMSC
+date : 1434255345523
+subject : null
+body : Your One-Time Password (OTP) is 388656 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 829
+address : VM-FROMSC
+date : 1434255340574
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 14/06/15 for INR 384.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 828
+address : VM-FROMSC
+date : 1434255166948
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 14/06/15 for INR 190.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 827
+address : VM-FROMSC
+date : 1434255142396
+subject : null
+body : Your One-Time Password (OTP) is 233167 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 826
+address : VM-FROMSC
+date : 1434254916460
+subject : null
+body : Your One-Time Password (OTP) is 871682 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 825
+address : VM-FROMSC
+date : 1434254740319
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 14/06/15 for INR 767.56. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 824
+address : My Vodafone
+date : 1434254510210
+subject : null
+body : Hello! We have received your request. 1743448788 is the request number for your reference.Thank you.
+------------------------------------------------------
+_id : 823
+address : VM-FROMSC
+date : 1434254474509
+subject : null
+body : Your One-Time Password (OTP) is 673614 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 822
+address : VK-HDFCBK
+date : 1434249524040
+subject : null
+body : Rs.1000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-06-14:08:09:15 at +GARFA. Avl bal: Rs.6492.10
+------------------------------------------------------
+_id : 821
+address : VK-HDFCBK
+date : 1434216092776
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.530.00 in KOLKATA at SPICE OF JOY on 2015-06-13:22:52:03  Avl bal: Rs.7492.10
+------------------------------------------------------
+_id : 819
+address : VM-YESBNK
+date : 1434177785730
+subject : null
+body : Avbl Bal as on 13-Jun-2015 11:36:59 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 818
+address : VM-iPaytm
+date : 1434171266736
+subject : null
+body : Your Paytm Wallet Statement for May 2015 was not sent as your email is not verified on Paytm. Visit Paytm.com/settings to verify email and get it from next month.
+------------------------------------------------------
+_id : 817
+address : +919903092518
+date : 1434093842430
+subject : null
+body : Tor bou er sathe kono cinema dekhechis?..just 2 of u. If nt ajker released cinema ta dekhe aaye.
+------------------------------------------------------
+_id : 816
+address : VK-DOMINO
+date : 1434089001497
+subject : null
+body : Dominos Super Value Friday;Buy 1 Pizza & Get 1 FREE Only TODAY; Call@ 18602008888 /OrderOnline@ dominos.co.in /Mobile@ http://apps.dominos.co.in Cpn:MOB06;T&C
+------------------------------------------------------
+_id : 815
+address : VM-YESBNK
+date : 1434086905334
+subject : null
+body : Dear Customer, you have not transacted in your YES BANK A/c no. 0320XXXXXXX2915  for over 03 months. For uninterrupted services, kindly initiate a transaction. For details, please visit your nearest YES BANK branch or call 18002000.
+------------------------------------------------------
+_id : 814
+address : AD-ICICIB
+date : 1434081434092
+subject : null
+body : Dear Customer, to enhance the security of your account, starting today, you will be able to transfer funds 24 hours after adding a new payee on ICICI Bank Internet Banking. Please plan your fund transfers accordingly.
+------------------------------------------------------
+_id : 813
+address : VD-VFCARE
+date : 1434036874811
+subject : null
+body : Hello. Your e-bill for account id 1.32302186 has been sent on your registered e-mail id. The Password to open your e-bill is debo5105
+------------------------------------------------------
+_id : 812
+address : VD-VFCARE
+date : 1434036874226
+subject : null
+body : Your Vodafone bill of Rs.767.56 due on 28-06-2015 has been emailed to your regd ID. Pls check Inbox & if mail is not received, pls check your Spam Box too
+------------------------------------------------------
+_id : 811
+address : VD-VFCARE
+date : 1434036871550
+subject : null
+body : You can also view and pay your bill on www.vodafone.in/myvodafone
+------------------------------------------------------
+_id : 810
+address : VK-611112
+date : 1434028616578
+subject : null
+body : Enjoy the convenience to manage your A/c on the move with My Vodafone App. Pay your Bills, Track Data usage. Click http://m.vodafone.in/vfapp
+------------------------------------------------------
+_id : 809
+address : VK-HDFCBK
+date : 1434003304897
+subject : null
+body : DearCustomer,HDFCBank Offers PradhanMantriJeevanJyoti BimaYojana,LifeInsurance cover ofRs.2 lac fr AnnualPremiumofRs330.ToSubscribe SMS PMJJBY<Nominee Full Name> to 5676712 fromyourRegisteredMobile nos.Premiumwill bedebited frm yourHDFCBank Savings acct.ForT&Cdetails click http://bit.ly/1bMlYju
+------------------------------------------------------
+_id : 808
+address : VK-CESCLM
+date : 1433998583754
+subject : null
+body : Dear Consumer(Consumer No : 75171144009) your electricity bill for MAY      , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 807
+address : VK-CESCLM
+date : 1433998567743
+subject : null
+body : Dear Consumer(Consumer No : 75171145006) your electricity bill for MAY      , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 806
+address : VK-CESCLM
+date : 1433998553613
+subject : null
+body : Dear Consumer(Consumer No : 75171146003) your electricity bill for MAY      , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 805
+address : VM-SNAPDL
+date : 1433940370073
+subject : null
+body : Motocop - Hydraulic Jack (2.0 Ton) of Snapdeal Order No. 6550929814 has been DELIVERED on Jun 10, 2015. If not satisfied with the product, return or replace it easily by visiting My Orders - bit.ly/1c5LBto. For better experience, download the App: bit.ly/1hW259Q
+------------------------------------------------------
+_id : 804
+address : VM-HDFCBK
+date : 1433923325881
+subject : null
+body : Rs.2500.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-06-10:13:32:33 at +SOUTH CITY PINNACLE. Avl bal: Rs.8022.10
+------------------------------------------------------
+_id : 803
+address : VK-BluDrt
+date : 1433917432703
+subject : null
+body : Your snapdeal.com shipment thru Blue Dart Awb 54401314483 will be attempted by end of today. Keep Rs 1600 ready in cash.
+------------------------------------------------------
+_id : 802
+address : VK-CESCLM
+date : 1433903619068
+subject : null
+body : Dear Consumer(Consumer No : 75108035074) your electricity bill for MAY      , 2015 is scheduled to be delivered today, failing which you may contact our courier MEMORY ENTERPRISES Courier(contact no 7044020999)
+------------------------------------------------------
+_id : 801
+address : DZ-CBSSBI
+date : 1433896337221
+subject : null
+body : Interest rate on account XXXXX798047 is changed to 9.850% as on 08/06/15. Please contact Branch Manager for any queries.
+------------------------------------------------------
+_id : 800
+address : VK-ICICIB
+date : 1433852881741
+subject : null
+body : Dear Customer, Updating Aadhar no. in ICICI Bank accnt is even more easier. SMS Aadhar<space>12 digit Aadhar no.<space> last 6 digits of accnt no. to 9222208888
+------------------------------------------------------
+_id : 799
+address : DZ-HPDBTL
+date : 1433847223261
+subject : null
+body : Dear HPGAS Consumer, Join Nation Building by giving up LPG subsidy for benefit of poor and needy. To Give-up subsidy send SMS GIVEITUP to 9766899899
+------------------------------------------------------
+_id : 797
+address : +919830462798
+date : 1433831052592
+subject : null
+body : SOURAV DUTTA  KOHLI CATERING SERVICES
+------------------------------------------------------
+_id : 796
+address : VK-CESCLM
+date : 1433830984346
+subject : null
+body : Dear Consumer(Consumer No : 75108035074, Customer ID : 75000635292), your electricity bill for 05/15, due date on 18/06/15, amounting to Rs.180(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 795
+address : VK-CESCLM
+date : 1433827825087
+subject : null
+body : Dear Consumer(Consumer No : 75171145006, Customer ID : 75000222229), your electricity bill for 05/15, due date on 19/06/15, amounting to Rs.3870(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 794
+address : VK-CESCLM
+date : 1433827811717
+subject : null
+body : Dear Consumer(Consumer No : 75171146003, Customer ID : 75000222194), your electricity bill for 05/15, due date on 19/06/15, amounting to Rs.380(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 793
+address : DZ-CBSSBI
+date : 1433770517767
+subject : null
+body : EMI due on09062015 in a/c XXXXX798047. Please ignore, if paid.If not paid, charges for late payment of EMI ofRs.562 penal intt@2% shall be debited to ur A/C
+------------------------------------------------------
+_id : 792
+address : VK-HDFCBK
+date : 1433752198880
+subject : null
+body : DearCustomer,Get Rs 2 lac Accident Cover with Pradhan Mantri SurakshaBimaYojana for annual premium ofRs 12.To subscribe SMS PMSBY <Nominee Full Name> to 5676712 frm your Registered Mobile number.Premium amount will be debited frm your HDFCBank Saving acct.For T&C &details click http://bit.ly/1PwqQXB.
+------------------------------------------------------
+_id : 791
+address : VM-FROMSC
+date : 1433748184446
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 08/06/15 for USD 200.00. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 790
+address : +913364503992
+date : 1433746792685
+subject : null
+body : Do Data Recovery,Motherboard and hard disc replacement,tab repair-At Boubajar & Central Crosing(Near B.B.Ganguly St)-Mitali madam-9330497804/(033)64503992..
+------------------------------------------------------
+_id : 789
+address : +913364503992
+date : 1433746766060
+subject : null
+body : Computer Repairing Service Centr-AVJ INFOTECH-ISO Certified-22 yrs old-Chiplevel Repairing-laptop,Mother board,printer,Monitor,Projector,CPU,Hard Disk & We also
+------------------------------------------------------
+_id : 788
+address : VM-FROMSC
+date : 1433744630088
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 08/06/15 for INR 786.52. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 787
+address : VM-FROMSC
+date : 1433744517140
+subject : null
+body : Your One-Time Password (OTP) is 246701 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 786
+address : VM-HDFCBK
+date : 1433738521632
+subject : null
+body : INR 35,594.00 Dr to A/c No XX5729 towards ECS D-RACPC SBI-34232798047 Val 08-JUN-15. Clr Bal INR 10,522.10.
+------------------------------------------------------
+_id : 785
+address : VK-VFCARE
+date : 1433703624237
+subject : null
+body : You have used 80% of the internet pack on your number 919051045105. You still have 406.37 MB balance. Dial *111# to check balance.
+------------------------------------------------------
+_id : 784
+address : VK-ALBANK
+date : 1433664644752
+subject : null
+body : Your A/c XXXXXXX3512 is debited through ATM Card by Rs. 1,726 Total Bal : Rs. 2,66,415.48 CR  Clr Bal : Rs. 2,66,415.48 CR 07/06/201 -- 07/06/15 13:38 - ALB 
+------------------------------------------------------
+_id : 783
+address : BP-ATMSBI
+date : 1433664320493
+subject : null
+body : Thank you for using your SBI Debit Card 459XXX5414 for a purchase worth Rs5757 on POS 62526606 at METRO CASH AND CARRY I KOLKATA IN txn# 515808545432.
+------------------------------------------------------
+_id : 782
+address : AK-AIREXP
+date : 1433616125924
+subject : null
+body : Bill of Rs 787 dated 21-MAY-15 for your airtel mobile 9163314943 is due on 08-JUN-15. Please pay on time to avoid late fee! Payment options:(a)myairtel app(b)visit www.airtel.in(c)ARC details-SMS ARC <pincode> to 121.Pls ignore if already paid. 
+------------------------------------------------------
+_id : 781
+address : +919830556490
+date : 1433604603147
+subject : null
+body : hb1.in 
+09830556490 NABO
+09830557490 SANTANU
+(Only License Holder Centre in WB.100% Safe, Secured & Transparent)
+ a) Massage+ Relaxation+Hiexpert  Boy+Ac Room Rs 600 850 1100 1550
+b) Junior/Model/Body-Builder Boy Rs 1100 to 5200
+c) Ur Place/ Full Night Rs1100 to 6200
+d) Get AC Room Rs 400, Steam, Saving, Wax. 
+Ur Place 24hrs Service-Reach Soon
+Add: HB 14 MONI MUKHERJEE ROAD GARIAHAT-Near Jagobandhu School Opp-Brati Sangha. Open Everyday 6am to Night 12pm
+------------------------------------------------------
+_id : 780
+address : VM-Justdl
+date : 1433603947538
+subject : null
+body : Dear Mr D,
+
+Why call when you can use JustDial mobile app?
+
+Click here to download app now
+http://jsdl.in/apps
+
+Gymnasiums.
+
+1.Sportz Fitness Centre (3.9*/5)
+(92 ratings),
++913333025197
+
+2.Karma Fitness Studio (3.9*/5)
+(173 ratings),
++913333028619
+
+3.Golds Gym Alipore (4.1*/5)
+(415 ratings)
+Alipore,
++913333025188
+
+4.A1 Massage With 100 Percent Reliable Centre/Health And Beauty (3.8*/5)
+(4 ratings)
++913340607090
++913324402141
++913324600500
++919830556490
++919830557490
+
+5.Experience Fitness
+Dhakuria
++917890015295
+
+6.SHIP SHAPE (3.7*/5)
+(20 ratings)
++913324404689
+
+7.Krrunch Gym (4.6*/5)
+(5 ratings)
+Gariahat
++913340607022
++919007987022
+
+8.Karma Fitness Studio (4*/5)
+(117 ratings),
++913333029629
+------------------------------------------------------
+_id : 779
+address : VM-HDFCBK
+date : 1433597572221
+subject : null
+body : Rs.1000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-06-06:19:03:24 at +JADAVPUR RLWY STN. Avl bal: Rs.46116.10
+------------------------------------------------------
+_id : 778
+address : MD-UBERIN
+date : 1433590820420
+subject : null
+body : Last chance to earn FREE rides worth Rs600! For every friend you refer both of you get Rs600 worth of free rides! Offer valid for limited time only
+------------------------------------------------------
+_id : 777
+address : VM-Justdl
+date : 1433572567436
+subject : null
+body : Dear Mr Das,
+
+As discussed on call, Download JD app now to save time and money: 
+
+http://jsdl.in/app3
+
+ONE app that does it all - Up to 60% discount on Shopping, Buy Movie Tickets, Book a Table & Order Food from any restaurant, Book a Hotel Room, Buy Flight or Bus Tickets, Book Appointment with your Doctor, Recharge your mobile, Pay bills, Book a Test Drive and do much more! 
+
+Get your FREE JD App Now and you could even win an iPad! Click here to download: http://jsdl.in/app3
+------------------------------------------------------
+_id : 776
+address : VM-Justdl
+date : 1433571413113
+subject : null
+body : Dear Mr D,
+
+Why call when you can use JustDial mobile app?
+
+Click here to download app now
+http://jsdl.in/apps
+
+Made Easy Institute (5*/5)
+(1 rating)
+755,
+Anandapur Next To Fortis Hospital,
+Anandapur,
+Kolkata-700107
+
++913368888880
++918282888880
++919818098817
+------------------------------------------------------
+_id : 775
+address : VM-Justdl
+date : 1433571366520
+subject : null
+body : Dear Mr D,
+
+Why call when you can use JustDial mobile app?
+
+Click here to download app now
+http://jsdl.in/apps
+
+The Gate Academy (3.8*/5)
+(12 ratings)
+6,
+Beside Dhakuria Kalbari,
+Dhakuria Kalbari Lane,
+Kolkata-700031
+
++913333018751
+------------------------------------------------------
+_id : 774
+address : VM-Justdl
+date : 1433571319756
+subject : null
+body : Dear Mr D,
+
+Why call when you can use JustDial mobile app?
+
+Click here to download app now
+http://jsdl.in/apps
+
+Gate Forum (3.8*/5)
+(74 ratings)
+227, Flat No 201, 2nd Floor, Anand Lok Building, B Block,
+Near Crossing,
+A J C Bose Road,
+Minto Park,
+Kolkata-700020
+
++913332552002
++913340064878
++919007889898
+------------------------------------------------------
+_id : 773
+address : VM-YESBNK
+date : 1433571060451
+subject : null
+body : Avbl Bal as on 06-Jun-2015 11:40:07 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 772
+address : VM-YESBNK
+date : 1433570998902
+subject : null
+body : Avbl Bal as on 06-Jun-2015 11:40:07 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 771
+address : DM-MININB
+date : 1433561665967
+subject : null
+body : Indian Navy offers B Tech to 10+2 (PCM) qualified young men. For an exciting career as an officer apply online at www.joinindiannavy.gov.in
+------------------------------------------------------
+_id : 770
+address : VM-HDFCBK
+date : 1433516926795
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.3891.00 in KOLKATA at TANDOOR PARK on 2015-06-05:20:39:21  Avl bal: Rs.47116.10
+------------------------------------------------------
+_id : 769
+address : AD-SNAPDL
+date : 1433475300111
+subject : null
+body : Motocop - Hydraulic Jack (2.0 Ton) of your Snapdeal Order No. 6550929814 is dispatched from Bluedart Surface courier's New Delhi hub. Tracking number is 54401314483. Please check your Snapdeal account or contact Bluedart Surface @ 18602331234 for courier status. Track order on mobile bit.ly/1c5LBto
+------------------------------------------------------
+_id : 768
+address : VM-FROMSC
+date : 1433475251478
+subject : null
+body : Your order no. 10786473 for Cashback to cash redemption will get processed in 3 working days. If you have not requested please sms NOT to 9987123123. Login to online banking for order status - StanChart
+------------------------------------------------------
+_id : 767
+address : VK-HDFCBK
+date : 1433433672177
+subject : null
+body : An amount of Rs.7,000.00 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 766
+address : VM-HDFCBK
+date : 1433342014290
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.1616.00 in KOLKATA at NAUTICA HOSPITALITY CO on 2015-06-03:20:03:21  Avl bal: Rs.58007.10
+------------------------------------------------------
+_id : 765
+address : IK-CBSSBI
+date : 1433340546394
+subject : null
+body : EMI due on09062015 in a/c XXXXX798047. Please ignore, if paid.If not paid, charges for late payment of EMI ofRs.562 penal intt@2% shall be debited to ur A/C
+------------------------------------------------------
+_id : 764
+address : VM-HDFCBK
+date : 1433329864781
+subject : null
+body : With BillPay service, you can easily pay your utility bills, without missing your due date! Simply register for it at NetBanking. Visit www.hdfcbank.com now!
+------------------------------------------------------
+_id : 763
+address : VM-HDFCBK
+date : 1433329809274
+subject : null
+body : With BillPay service, you can easily pay your utility bills, without missing your due date! Simply register for it at NetBanking. Visit www.hdfcbank.com now!
+------------------------------------------------------
+_id : 762
+address : VK-HDFCBK
+date : 1433260676725
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.814.00 in KOLKATTA at SPENCERS RETAIL LTD AV on 2015-06-02:21:27:45  Avl bal: Rs.59708.60
+------------------------------------------------------
+_id : 761
+address : VM-HDFCBK
+date : 1433253240397
+subject : null
+body : Pay Credit Card bills, Utility bills, Book FD/RD, View Account summary and a lot more, easily from your home! Login to NetBanking now. Visit www.hdfcbank.com
+------------------------------------------------------
+_id : 760
+address : VK-SNAPDL
+date : 1433216927200
+subject : null
+body : Motocop - Hydraulic Jack (2.0 Ton) of Snapdeal Order No. 6550929814 has been HANDED OVER to Bluedart Surface courier. Tracking number is 54401314483 and will reach you ON OR BEFORE Jun 09, 2015. Please check your Snapdeal account or contact Bluedart Surface @ 18602331234 for courier status. Track order on mobile bit.ly/1c5LBto
+------------------------------------------------------
+_id : 759
+address : VK-HDFCBK
+date : 1433216192499
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.3000.00 in KOLKATTA at UMA SERVICE STATION on 2015-06-02:09:06:15  Avl bal: Rs.60522.60
+------------------------------------------------------
+_id : 758
+address : +919339518705
+date : 1433169120539
+subject : null
+body : Pratik packers & movers mobill.9339518705/7685000538-pratikpm09@gmail.com   web.pratikpackers.com  .Mr.jaiswal..(kolkata)
+
+------------------------------------------------------
+_id : 757
+address : AD-YESBNK
+date : 1433156069088
+subject : null
+body : Dear Customer, DO NOT share confidential information related to your Bank account with anyone over phone or email. YES BANK will NEVER ask for such information.
+------------------------------------------------------
+_id : 756
+address : VM-SNAPDL
+date : 1433149317227
+subject : null
+body : Motocop - Hydraulic Jack (2.0 Ton) of Snapdeal Order No. 6550929814 is ready with seller & will be shipped anytime within 48 hrs. Get extra Cashback on every order from the App. Download now: bit.ly/1hW259Q
+------------------------------------------------------
+_id : 755
+address : VM-HDFCBK
+date : 1433131413356
+subject : null
+body : Rs.1000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-06-01:09:33:20 at +SALT LAKE SEC-V BRANCH. Avl bal: Rs.63522.60
+------------------------------------------------------
+_id : 754
+address : +919883017762
+date : 1433049261590
+subject : null
+body : Ballygunje mukti world e katlam 6.35 e
+------------------------------------------------------
+_id : 753
+address : VK-SNAPDL
+date : 1433045049404
+subject : null
+body : Dear Debojyoti Das thanks for placing order no 6550929814. EST DELIVERY DATE Jun 09, 2015. Check mail for details. Exclusive Offers only on our free Smartphone App. Download now:http://bit.ly/1hW259Q
+------------------------------------------------------
+_id : 752
+address : VK-FROMSC
+date : 1432982589927
+subject : null
+body : Your credit card pymt for stmt 13/05/15 is due on 04/06/15,Total due: INR 701.95,Minimum Due: INR 250.00,Please ignore if already paid-StanChart
+------------------------------------------------------
+_id : 751
+address : VK-UBERIN
+date : 1432977199878
+subject : null
+body : Get FREE cold treats on-demand today, May 30 from 1-5 pm. Share the news with your friends to earn Rs600 worth of FREE rides! Check out https://goo.gl/lIL85K for more details.
+------------------------------------------------------
+_id : 750
+address : TD-Sulekh
+date : 1432977024687
+subject : null
+body : B Das , happy with the quotes for 'Packers and Movers - Within City Packers and Movers'? 
+Give a missed call to 180030023671 if you selected a business or to 180030023152 if you didn't receive calls.
+Manage your needs on your dashboard! Download Sulekha's free android app now! http://goo.gl/bZVbWj
+------------------------------------------------------
+_id : 749
+address : DM-ENCRCL
+date : 1432975982835
+subject : null
+body : Dear Member, Your Titan encircle points are expiring on 12 June 2015, please redeem your points at any of the nearest World of Titan/Titan Eyeplus/Tanishq/Fastrack/Helios/Goldplus stores.Call 18001084826 for any queries.
+------------------------------------------------------
+_id : 748
+address : VK-FROMSC
+date : 1432975714112
+subject : null
+body : Dear client, effective 01 June 2015 there is a revision in service tax rate from existing 12.36% to 14%. This is on account of amendment in Finance act, notification no.14/2015-Service Tax dated 19th May. The revised rate will be apply to all Bank products & services offered effective 01 June 2015
+------------------------------------------------------
+_id : 746
+address : VM-YESBNK
+date : 1432966202780
+subject : null
+body : Avbl Bal as on 30-May-2015 11:37:36 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 745
+address : +919331131235
+date : 1432964613058
+subject : null
+body : Speed Movers n packers a unit of Speed and Movers India pvt ltd.You can mail us at info@speedandmoversindia.Com.Contact person Priyanka saha
+------------------------------------------------------
+_id : 744
+address : +919874748675
+date : 1432963470527
+subject : null
+body : Bishalpackers&movers. Omar  bubai das. Rs3000
+------------------------------------------------------
+_id : 743
+address : +919339518705
+date : 1432962236819
+subject : null
+body : Pratik packers & movers mobill.9339518705/7685000538-pratikpm09@gmail.com   web.pratikpackers.com  .Mr.jaiswal..(kolkata)
+
+------------------------------------------------------
+_id : 742
+address : TD-SULEKH
+date : 1432961907326
+subject : null
+body : There! That's done. Thank you B Das .
+Now for the contact details for: Within City Packers and Movers
+1. Sumangal Packers & Movers, Hooghly *** (5 ratings) +919007210091
+2. Pratik Packers & Movers - ISO 9001:2008 Certified, Maniktala **** (31 ratings) +919339518705
+3. Mother Packers & movers, Salt Lake City **** (2 ratings) +919007842343
+4. Speed Movers & Packers - Division of S & MIPL, Diamond Harbour Road  +919331131235
+5. Rajput Packers & Movers, Baguiati **** (37 ratings) +918444809090
+6. Anu Packers & Movers, Tollygunge  +919836410907
+7. Sahil Transport & Packers, Tollygunge  +919903059018
+8. Bishal Packers & Movers, Tollygunge *** (5 ratings) +918697478852
+9. Anand Packers & Movers, Kankurgachi * (1 rating) +919674895853
+10. New P. M. Packers & Movers, Regent Park  +919831121412
+Please check out quotes from at least 4 businesses before you finalise the deal.
+Manage you
+------------------------------------------------------
+_id : 741
+address : TD-SULEKH
+date : 1432961896857
+subject : null
+body : Thanks for choosing Sulekha.com! You'll soon get an SMS and email with the best quotes from service experts. Manage your needs on-the-go! Download Sulekha app http://goo.gl/bZVbWj
+------------------------------------------------------
+_id : 740
+address : VM-HDFCBK
+date : 1432913381419
+subject : null
+body : Rs.1900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-29:20:59:32 at +BOB. Avl bal: Rs.64522.60
+------------------------------------------------------
+_id : 739
+address : VM-HDFCBK
+date : 1432895778148
+subject : null
+body : Salary of INR 66,239.00 credited to A/c XXXXXXXXXX5729 towards sal 201505 Kol 9537      sal 201505 Kol Value 29-MAY-2015 . Check A/c for balance
+------------------------------------------------------
+_id : 738
+address : VK-ALBANK
+date : 1432891311979
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 30,000 Total Bal : Rs. 2,65,941.48 CR  Clr Bal : Rs. 2,65,941.48 CR 29/05/2015 -- 29/05/15 14:49 - ALB 
+------------------------------------------------------
+_id : 737
+address : BP-ATMSBI
+date : 1432740443340
+subject : null
+body : Rs1000 withdrawn from A/c xxxx9095 on 270515 at IDB ATM ID018401.Txn#514715918194.Avl bal Rs11393.25.
+------------------------------------------------------
+_id : 736
+address : VM-CBSSBI
+date : 1432639826123
+subject : null
+body : Available Balance in your Account XXXXX379095 as on 26/05/15 is INR 12,393.25
+------------------------------------------------------
+_id : 735
+address : VK-ICICIB
+date : 1432637612679
+subject : null
+body : Dear Customer, DO NOT SHARE INTERNET BANKING USER ID/ PASSWORD/ OTP/ URN WITH ANYONE, even if the person claims to activate your INTERNET BANKING/POCKETS/iMobile account or the caller claims to be the employee of the Bank. Bank will never call for these details. It can lead to FRAUD.
+------------------------------------------------------
+_id : 734
+address : VM-CBSSBI
+date : 1432608226068
+subject : null
+body : Your AC XXXXX379095 Debited INR 5,000.00 on 26/05/15 -DIRECT DR . Avl Bal INR 12,421.34
+------------------------------------------------------
+_id : 733
+address : BP-ATMSBI
+date : 1432482833203
+subject : null
+body : Thank you for using your SBI Debit Card 459XXX5414 for a purchase worth Rs1000 on POS 16103300 at BY PASS SERVICES KOLKATA IN txn# 514415644368.
+------------------------------------------------------
+_id : 732
+address : VM-HDFCBK
+date : 1432399709573
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.2463.00 in KOLKATTA at TUNG FONG on 2015-05-23:22:18:21  Avl bal: Rs.183.60
+------------------------------------------------------
+_id : 731
+address : VM-YESBNK
+date : 1432361262064
+subject : null
+body : Avbl Bal as on 23-May-2015 11:37:03 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 730
+address : DM-ICICIB
+date : 1432358057234
+subject : null
+body : Dear Customer, you have made a purchase for Rs.1,030.00 on 23-May-2015 10:44:14 using your ICICI Bank Individual Gift Card XXXXXXXXXXXX2322 at ANANDA MELA           . Available Balance is Rs.7,970.00.
+------------------------------------------------------
+_id : 729
+address : +919433233555
+date : 1432320488355
+subject : null
+body : Aaj 8 am e o asbe!
+------------------------------------------------------
+_id : 728
+address : VK-ICICIB
+date : 1432310254115
+subject : null
+body : Dear Customer,do not disclose card PIN,OTP,CVV,expiry dt over phone/SMS/email even if the person claims to be from ICICI Bank.Your bank never asks for such dtls.
+------------------------------------------------------
+_id : 727
+address : VM-HDFCBK
+date : 1432308321720
+subject : null
+body : Rs.1000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-22:20:55:09 at +GARFA. Avl bal: Rs.2646.60
+------------------------------------------------------
+_id : 726
+address : VK-HDFCBK
+date : 1432303413377
+subject : null
+body : Dear Customer,HDFC Bank offers PradhanMantriJeevanJyoti Bima Yojana life insurance cover of Rs 2lac for Rs.330 p.a.To subscribe,SMS PMJJBY <nominee full name> Y  to 5676712 from your registered mobile no.Premium will be debited from your savings acct.For T&C & other details click http://bit.ly/1bMlYju
+------------------------------------------------------
+_id : 725
+address : VM-ALBANK
+date : 1432267671787
+subject : null
+body : NEFT Transaction with reference number ALLAH15142905065 for Rs. 12000.00       Has been credited on 22-05-2015 at 09:31:57 -- 22/05/15 09:35 - ALB
+------------------------------------------------------
+_id : 724
+address : VK-ALBANK
+date : 1432262861145
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 12,000 Total Bal : Rs. 2,95,941.48 CR  Clr Bal : Rs. 2,95,941.48 CR 22/05/2015 -- 22/05/15 08:15 - ALB 
+------------------------------------------------------
+_id : 723
+address : VM-ALBANK
+date : 1432262811186
+subject : null
+body : NEFT transfer of Rs. 12000 to AXIS BANK LTD will be effected subject to realisation. Ref No : ALLAH15142905065 -- 22/05/15 08:14 - ALB
+------------------------------------------------------
+_id : 722
+address : VM-ALBANK
+date : 1432259145272
+subject : null
+body : Dear Customer, please enter OTP 932802, to complete transaction of Rs.12000. OTP Valid upto: 22/05/2015 07:16:10-AllahabadBank -- 22/05/15 07:13 - ALB
+------------------------------------------------------
+_id : 721
+address : DM-UBERIN
+date : 1432230110989
+subject : null
+body : #RIDESMARTKOL is back.Walk into Kolkata's favourite hangouts, show your Uber receipt & avail exciting offers.Read:blog.uber.com/beattheheat
+------------------------------------------------------
+_id : 720
+address : MD-ETSBUS
+date : 1432217100676
+subject : null
+body : Book bus ticket @ www.eTravelSmart.com ,Get FLAT 15% OFF+FLAT 250/OFF on BookMyShow,FoodPanda,etc 4 apps down: http://goo.gl/LyjPtr ,SMS unsubscribe 08040751589
+------------------------------------------------------
+_id : 719
+address : VM-ALBANK
+date : 1432168404381
+subject : null
+body : PROSANTA BHADRA,  a/c no. 913010025380518 in AXIS BANK LTD has been added as beneficiary to your Internet Banking a/c for NEFT.Added beneficiary will be active after 4 hours -- 21/05/15 06:00 - ALB
+------------------------------------------------------
+_id : 718
+address : VM-ALBANK
+date : 1432168339210
+subject : null
+body : Dear Customer, please enter OTP 329336, to add beneficiary A/c XXXXXXXXXXXX518. OTP Valid upto: 21/05/2015 06:02:45-AllahabadBank -- 21/05/15 05:59 - ALB
+------------------------------------------------------
+_id : 717
+address : VM-HDFCBK
+date : 1432133275238
+subject : null
+body : Rs.1500.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-20:20:17:06 at +GARFA. Avl bal: Rs.3646.60
+------------------------------------------------------
+_id : 716
+address : VM-ALBANK
+date : 1432037800132
+subject : null
+body : Your Cheque Book request for account XXXXXXX3512 has been processed. Cheque book will be delivered to your address. -- 19/05/15 17:44 - ALB
+------------------------------------------------------
+_id : 715
+address : MD-UBERIN
+date : 1432023117956
+subject : null
+body : #RIDESMARTKOL is back. Walk into Kolkata's favourite hangouts, show your Uber receipt & avail exciting offers till May 24,2015. Read:blog.uber.com/beattheheat
+------------------------------------------------------
+_id : 714
+address : +919433233555
+date : 1431971363539
+subject : null
+body : Sabitri Das 9874524731. Call at 10.30 am for car cleaning......take Ram's reference!
+------------------------------------------------------
+_id : 713
+address : VK-FROMSC
+date : 1431958557744
+subject : null
+body : Your monthly credit card e-statement sent to your registered Email ID(s) has bounced. Please contact helpline for further assistance - StanChart
+------------------------------------------------------
+_id : 712
+address : VK-FROMSC
+date : 1431957147161
+subject : null
+body : Manage your account on the move with Breeze Mobile Web. Download now on your IOS/Android devices at on.sc.com/Breezedownload-IN - Stanchart
+------------------------------------------------------
+_id : 711
+address : AZ-AIRCCM
+date : 1431945567709
+subject : null
+body : Update: Service change order no. 363571687 for airtel mobile 9163314943 has been submitted on 18-MAY-2015 16:07:12. To check the status of your request anytime, SMS SERVICE 363571687  to 121 from airtel or to 9650096500 from non-airtel mobile.
+
+------------------------------------------------------
+_id : 710
+address : VM-ALBANK
+date : 1431941092686
+subject : null
+body : Your A/c XXXXXXX3512 is credited by Rs. 12,000 Total Bal : Rs. 3,07,941.48 CR  Clr Bal : Rs. 3,07,941.48 CR 18/05/2015 -- 18/05/15 14:52 - ALB
+------------------------------------------------------
+_id : 709
+address : VK-ALBANK
+date : 1431939920032
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 12,000 Total Bal : Rs. 2,95,941.48 CR  Clr Bal : Rs. 2,95,941.48 CR 18/05/2015 -- 18/05/15 14:32 - ALB 
+------------------------------------------------------
+_id : 708
+address : VM-ALBANK
+date : 1431939792544
+subject : null
+body : NEFT transfer of Rs. 12000 to AXIS BANK LTD will be effected subject to realisation. Ref No : ALLAH15138507717 -- 18/05/15 14:30 - ALB
+------------------------------------------------------
+_id : 707
+address : VM-ALBANK
+date : 1431939757495
+subject : null
+body : Dear Customer, please enter OTP 347085, to complete transaction of Rs.12000. OTP Valid upto: 18/05/2015 14:33:05-AllahabadBank -- 18/05/15 14:30 - ALB
+------------------------------------------------------
+_id : 706
+address : VM-ALBANK
+date : 1431939669579
+subject : null
+body : Dear Customer, please enter OTP 119034, to complete transaction of Rs.12000. OTP Valid upto: 18/05/2015 14:25:00-AllahabadBank -- 18/05/15 14:22 - ALB
+------------------------------------------------------
+_id : 705
+address : VM-FROMSC
+date : 1431931042027
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/05/15 for INR 253.27. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 704
+address : VM-FROMSC
+date : 1431930970303
+subject : null
+body : Your One-Time Password (OTP) is 127119 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 703
+address : VM-FROMSC
+date : 1431930860192
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/05/15 for INR 129.62. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 702
+address : VM-FROMSC
+date : 1431930610506
+subject : null
+body : Your One-Time Password (OTP) is 176183 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 701
+address : VM-FROMSC
+date : 1431930313540
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/05/15 for INR 556.10. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 700
+address : VM-FROMSC
+date : 1431930179859
+subject : null
+body : Your One-Time Password (OTP) is 181693 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 699
+address : VM-FROMSC
+date : 1431930090055
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/05/15 for INR 527.79. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 698
+address : VM-FROMSC
+date : 1431929880409
+subject : null
+body : Your One-Time Password (OTP) is 141213 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 697
+address : VM-FROMSC
+date : 1431929732893
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/05/15 for INR 1248.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 696
+address : VM-FROMSC
+date : 1431929506590
+subject : null
+body : Your One-Time Password (OTP) is 681221 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 695
+address : VM-KMCITS
+date : 1431928986442
+subject : null
+body : Your payment amount Rs. 9532.00 dt. 16-MAY-2015 by txn_id 0120150000052907 has been successful for Assessee No 210922305286.
+------------------------------------------------------
+_id : 694
+address : VM-KMCITS
+date : 1431928871151
+subject : null
+body : Your payment amount Rs. 848.00 dt. 16-MAY-2015 by txn_id 0120150000052769 has been successful for Assessee No 311041600619.
+------------------------------------------------------
+_id : 693
+address : VM-ALBANK
+date : 1431920837795
+subject : null
+body : Your A/c XXXXXXX3512 is credited by Rs. 12,000 Total Bal : Rs. 3,07,941.48 CR  Clr Bal : Rs. 3,07,941.48 CR 18/05/2015 -- 18/05/15 09:14 - ALB
+------------------------------------------------------
+_id : 692
+address : VK-ALBANK
+date : 1431919562400
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 12,000 Total Bal : Rs. 2,95,941.48 CR  Clr Bal : Rs. 2,95,941.48 CR 18/05/2015 -- 18/05/15 08:53 - ALB 
+------------------------------------------------------
+_id : 691
+address : VM-ALBANK
+date : 1431919461963
+subject : null
+body : NEFT transfer of Rs. 12000 to AXIS BANK LTD will be effected subject to realisation. Ref No : ALLAH15138464800 -- 18/05/15 08:51 - ALB
+------------------------------------------------------
+_id : 690
+address : +919433233555
+date : 1431874259524
+subject : null
+body : Can't talk right now...I'll call you later.
+------------------------------------------------------
+_id : 689
+address : +918600272108
+date : 1431842130577
+subject : null
+body : Dear just to intimate you that if anybody whom do you know, wants to buy a brand new year old home furnitures, which are in kolkata, they can visit my OLX ad ID:848194997 and can be in touch with me. Regards: Durjoy
+------------------------------------------------------
+_id : 688
+address : IK-CPEARL
+date : 1431840762125
+subject : null
+body : Chandrani Pearls Colour Pearl Festival on till the 19th of May. Attractive gift on purchase above Rs. 1500. Exciting new collection. Ph: 033241268004 T&C aply
+------------------------------------------------------
+_id : 687
+address : VM-MYAMEX
+date : 1431839292768
+subject : null
+body : A new PIN has been issued for your AMEX Chip Card 31001. You can view your PIN by logging onto to your Online Card Account & click on "View your PIN"
+------------------------------------------------------
+_id : 686
+address : VK-HDFCBK
+date : 1431830303434
+subject : null
+body : Rs.1000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-17:08:08:15 at +GARFA. Avl bal: Rs.5146.60
+------------------------------------------------------
+_id : 685
+address : BA-HPGASd
+date : 1431771657734
+subject : null
+body : HP Gas refill delivered on 16.05.2015 vide Cash Memo no.183438.If not received your feedback on 9088823456 Join Nation building to Giveup subsidy  SMS GIVEITUP to 9766899899
+------------------------------------------------------
+_id : 684
+address : VM-ALBANK
+date : 1431769913245
+subject : null
+body : Dear Customer, please enter OTP 762617, to complete transaction of Rs.12000. OTP Valid upto: 16/05/2015 15:22:10-AllahabadBank -- 16/05/15 15:19 - ALB
+------------------------------------------------------
+_id : 683
+address : VM-ALBANK
+date : 1431759948149
+subject : null
+body : Your Cheque Book request for account XXXXXXX3512 is under process. -- 16/05/15 12:33 - ALB
+------------------------------------------------------
+_id : 682
+address : VM-YESBNK
+date : 1431756486215
+subject : null
+body : Avbl Bal as on 16-May-2015 11:36:35 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 681
+address : VK-HDFCBK
+date : 1431755177903
+subject : null
+body : Rs.2000.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-16:11:16:09 at GARFA (E-CORNER 1ST). Avl bal: Rs.6146.60
+------------------------------------------------------
+_id : 680
+address : VM-FROMSC
+date : 1431753509382
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 16/05/15 for INR 9660.68. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 679
+address : VM-FROMSC
+date : 1431753386993
+subject : null
+body : Your One-Time Password (OTP) is 211392 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 678
+address : Vodafone
+date : 1431750781911
+subject : null
+body : Hello ! Payment of Rs. 753.37 has been credited to your Vodafone account. CHQ payments if any is subject to realization. Thank you.
+------------------------------------------------------
+_id : 677
+address : VM-FROMSC
+date : 1431750041834
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 16/05/15 for INR 859.44. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 676
+address : VM-FROMSC
+date : 1431749931201
+subject : null
+body : Your One-Time Password (OTP) is 181115 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 675
+address : VM-FROMSC
+date : 1431748940022
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 16/05/15 for INR 753.37. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 674
+address : My Vodafone
+date : 1431748734934
+subject : null
+body : Hello! We have received your request. 1725355632 is the request number for your reference.Thank you.
+------------------------------------------------------
+_id : 673
+address : VM-FROMSC
+date : 1431748683745
+subject : null
+body : Your One-Time Password (OTP) is 136140 for online transaction on your Credit Card ending 4275. Please do not share this password with anyone - StanChart.
+------------------------------------------------------
+_id : 672
+address : VM-ALBANK
+date : 1431748372412
+subject : null
+body : Prosanta Bhadra,  a/c no. 91301002538051 in AXIS BANK LTD has been added as beneficiary to your Internet Banking a/c for NEFT.Added beneficiary will be active after 4 hours -- 16/05/15 09:20 - ALB
+------------------------------------------------------
+_id : 671
+address : VM-ALBANK
+date : 1431748329259
+subject : null
+body : Dear Customer, please enter OTP 428868, to add beneficiary A/c XXXXXXXXXXX051. OTP Valid upto: 16/05/2015 09:22:38-AllahabadBank -- 16/05/15 09:19 - ALB
+------------------------------------------------------
+_id : 670
+address : +918013067485
+date : 1431748157734
+subject : null
+body : S b no 913010025380518prosanta bhadra, Ramrajatala branch,Howrah : 4 IFSC : UTIB0002013 MICR : 700211088
+------------------------------------------------------
+_id : 669
+address : AZ-AIRCCM
+date : 1431745430053
+subject : null
+body : Update: Service change order no. 362872476 for airtel mobile 9163314943 has been submitted on 16-MAY-2015 08:29:43. To check the status of your request anytime, SMS SERVICE 362872476  to 121 from airtel or to 9650096500 from non-airtel mobile.
+
+------------------------------------------------------
+_id : 668
+address : +919432166398
+date : 1431714492543
+subject : null
+body : Pauchauni?
+------------------------------------------------------
+_id : 667
+address : VK-DOMINO
+date : 1431695354894
+subject : null
+body : Dominos Super Value Friday;Buy 1 Pizza & Get 1 FREE TODAY;Enjoy with Friends & Family.Walkin or Call @68886888/OrderOnline/Mobile @ dominos.co.in Cpn:MOB06;T&C
+------------------------------------------------------
+_id : 666
+address : VK-DOMINO
+date : 1431695278646
+subject : null
+body : Dominos Super Value Friday;Buy 1 Pizza & Get 1 FREE TODAY;Enjoy with Friends & Family.Walkin or Call @68886888/OrderOnline/Mobile @ dominos.co.in Cpn:MOB06;T&C
+------------------------------------------------------
+_id : 665
+address : VM-CBSSBI
+date : 1431688625054
+subject : null
+body : Available Balance in your Account XXXXX379095 as on 15/05/15 is INR 4,421.34
+------------------------------------------------------
+_id : 664
+address : BH-ICICIB
+date : 1431655191522
+subject : null
+body : Dear Customer,don't miss an opportunity to avail PM Suraksha Bima - an accident death cover of Rs.2lac for a premium of Rs.12 pa. SMS PMSBY <nominee name> Y to 5676766 from your regd mobile. Premium will be debited from your ICICI Bank A/c. Enroll by 31-May to get insurance cover wef 1-Jun. TnC at http://bit.ly/1GP7JDe
+------------------------------------------------------
+_id : 663
+address : VK-FROMSC
+date : 1431602793167
+subject : null
+body : Your Credit Card mini Statement as of 13/05/15 : Statement Outstanding :INR 701.95, Minimum Due :INR 250.00, Payment Due Date :04/06/15-StanChart.
+------------------------------------------------------
+_id : 662
+address : VK-CESCLM
+date : 1431584096831
+subject : null
+body : Dear Consumer(consumer no 75171146003) your electricity bill for APRIL    , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 661
+address : VK-CESCLM
+date : 1431584092787
+subject : null
+body : Dear Consumer(consumer no 75171145006) your electricity bill for APRIL    , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 660
+address : VK-CESCLM
+date : 1431584066261
+subject : null
+body : Dear Consumer(consumer no 75171144009) your electricity bill for APRIL    , 2015 is scheduled to be delivered today, failing which you may contact our courier LUMBENT Courier(contact no 9038690244)
+------------------------------------------------------
+_id : 659
+address : VK-CPEARL
+date : 1431581949702
+subject : null
+body : Chandrani Pearls Colour Pearl Festival on till the 19th of May. Attractive gift on purchase above Rs. 1500. Exciting new collection. Ph: 033241268004 T&C aply
+------------------------------------------------------
+_id : 658
+address : VK-CESCLM
+date : 1431503822164
+subject : null
+body : Dear Consumer(consumer no 75171145006), your electricity bill for 04/15, due date on 22/05/15, amounting to Rs.1250(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 657
+address : VK-CESCLM
+date : 1431503810158
+subject : null
+body : Dear Consumer(consumer no 75171146003), your electricity bill for 04/15, due date on 22/05/15, amounting to Rs.550(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 656
+address : VK-CESCLM
+date : 1431503807181
+subject : null
+body : Dear Consumer(consumer no 75171144009), your electricity bill for 04/15, due date on 22/05/15, amounting to Rs.520(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 655
+address : VK-HDFCBK
+date : 1431438358096
+subject : null
+body : Dear Customer, Get Rs 2 lac Accident Cover with Pradhan Mantri Suraksha Bima Yojana for an annual premium of Rs 12. To subscribe SMS PMSBY <nominee name> Y to 5676712 from your registered mobile number. Premium amount will be debited from your HDFC Bank Savings acct. For T&C & other details click http://bit.ly/1PwqQXB.
+------------------------------------------------------
+_id : 654
+address : VK-ALBANK
+date : 1431418001452
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 15,000 Total Bal : Rs. 3,07,941.48 CR  Clr Bal : Rs. 3,07,941.48 CR 12/05/2015 -- 12/05/15 13:33 - ALB 
+------------------------------------------------------
+_id : 653
+address : VK-CESCLM
+date : 1431395615969
+subject : null
+body : Dear Consumer(consumer no 75108035074) your electricity bill for APRIL    , 2015 is scheduled to be delivered today, failing which you may contact our courier MEMORY ENTERPRISES Courier(contact no 7044020999)
+------------------------------------------------------
+_id : 652
+address : IK-CPEARL
+date : 1431341238703
+subject : null
+body : Chandrani Pearls Colour Pearl Festival on till the 19th of May. Attractive gift on purchase above Rs. 1500. Exciting new collection. Ph: 033241268004 T&C aply
+------------------------------------------------------
+_id : 651
+address : VK-ALBANK
+date : 1431330910906
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 11,800 Total Bal : Rs. 3,22,941.48 CR  Clr Bal : Rs. 3,22,941.48 CR 11/05/2015 -- 11/05/15 13:22 - ALB 
+------------------------------------------------------
+_id : 650
+address : VD-VFCARE
+date : 1431320749838
+subject : null
+body : You can also view and pay your bill on www.vodafone.in/myvodafone
+------------------------------------------------------
+_id : 649
+address : VD-VFCARE
+date : 1431320749203
+subject : null
+body : Hello. Your e-bill for account id 1.32302186 has been sent on your registered e-mail id. The Password to open your e-bill is debo5105
+------------------------------------------------------
+_id : 648
+address : VD-VFCARE
+date : 1431320745978
+subject : null
+body : Your Vodafone bill of Rs.753.37 due on 28-05-2015 has been emailed to your regd ID. Pls check Inbox & if mail is not received, pls check your Spam Box too
+------------------------------------------------------
+_id : 647
+address : VK-HDFCBK
+date : 1431276786747
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.985.00 in KOLKATA at SONAR SANSAR RESTAURAN on 2015-05-10:22:22:58  Avl bal: Rs.8067.58
+------------------------------------------------------
+_id : 646
+address : VM-HDFCBK
+date : 1431241258711
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.3107.00 in KOLKATA at METRO CASH AND CARRY I on 2015-05-10:12:30:33  Avl bal: Rs.9052.58
+------------------------------------------------------
+_id : 645
+address : VK-HDFCBK
+date : 1431182021197
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.3000.00 in KOLKATA at FAIR DEAL INTERNATIONA on 2015-05-09:20:03:33  Avl bal: Rs.12159.58
+------------------------------------------------------
+_id : 644
+address : VK-ICICIB
+date : 1431179448302
+subject : null
+body : Dear Customer, ICICI Bank offers Pradhan Mantri Jeevan Jyoti Bima Yojana - a life cover of Rs.2 lac for annual premium amount of Rs. 330. To enroll, SMS PMJJY <nominee name> Y to 5676766 from your regd mobile no. The premium amount will be debited from your ICICI Bank Savings Acct. TnC at http://bit.ly/1GP7JDe
+------------------------------------------------------
+_id : 643
+address : VK-CESCLM
+date : 1431167751657
+subject : null
+body : Dear Consumer(consumer no 75108035074), your electricity bill for 04/15, due date on 19/05/15, amounting to Rs.120(Net) has been generated and due to be delivered in next 4 days.
+------------------------------------------------------
+_id : 642
+address : AK-AIREXP
+date : 1431159755977
+subject : null
+body : Bill for your airtel mobile 9163314943 dated 21-APR-15 for Rs 843 is due today. Please pay immediately to avoid late fee! Payment options:(a)myairtel app(b)www.airtel.in(c)ARC details-SMS ARC <pincode> to 121.Pls ignore if already paid  
+------------------------------------------------------
+_id : 641
+address : VK-CPEARL
+date : 1431159248062
+subject : null
+body : Chandrani Pearls Colour Pearl Festival on till the 19th of May. Attractive gift on purchase above Rs. 1500. Exciting new collection. Ph: 033241268004 T&C aply
+------------------------------------------------------
+_id : 640
+address : VM-YESBNK
+date : 1431152986932
+subject : null
+body : Avbl Bal as on 09-May-2015 11:36:53 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 638
+address : VM-FROMSC
+date : 1431144888333
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 09/05/15 for INR 842.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 636
+address : VM-HDFCBK
+date : 1431100753423
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.2113.00 in KOLKATTA at TANDOOR PARK on 2015-05-08:21:29:07  Avl bal: Rs.15159.58
+------------------------------------------------------
+_id : 635
+address : BW-ICICIB
+date : 1431099681677
+subject : null
+body : Our core banking system will be upgraded between 12pm on May 9 & 9am on May 11, 2015. ATM, Debit & Credit Card services will continue. Some services may be impacted. Pl visit icicibank.com for details. There will be no change to your User ID, Password & PIN due to this activity. Pl do not share these on phone/email.
+------------------------------------------------------
+_id : 634
+address : Vodafone
+date : 1431098081217
+subject : null
+body : You have used 80% of the internet pack on your number 919051045105. You still have 409.08 MB balance. Dial *111# to check balance.
+------------------------------------------------------
+_id : 633
+address : VM-CBSSBI
+date : 1431096592644
+subject : null
+body : EMI due on09052015 in a/c XXXXX798047. Please ignore, if paid.If not paid, charges for late payment of EMI ofRs.562 penal intt@2% shall be debited to ur A/C
+------------------------------------------------------
+_id : 632
+address : VK-ALBANK
+date : 1431081222116
+subject : null
+body : Your A/c XXXXXXX3512 is debited through ATM by Rs. 9,000 Total Bal : Rs. 3,34,741.48 CR  Clr Bal : Rs. 3,34,741.48 CR 08/05/2015 -- 08/05/15 16:00 - ALB 
+------------------------------------------------------
+_id : 631
+address : VK-ALBANK
+date : 1431081218000
+subject : null
+body : Miss you in our nearest ATM to serve you better. Grateful to you for your patronage - Allahabad Bank. -- 08/05/15 16:00 - ALB 
+------------------------------------------------------
+_id : 630
+address : VM-ALBANK
+date : 1431081139988
+subject : null
+body : Your A/c XXXXXXX3512 is credited through ATM by Rs. 10,000 Total Bal : Rs. 3,43,741.48 CR  Clr Bal : Rs. 3,43,741.48 CR 08/05/2015 -- 08/05/15 15:58 - ALB
+------------------------------------------------------
+_id : 629
+address : VK-ALBANK
+date : 1431081127188
+subject : null
+body : Your A/c XXXXXXX3512 is debited through ATM by Rs. 10,000 Total Bal : Rs. 3,33,741.48 CR  Clr Bal : Rs. 3,33,741.48 CR 08/05/2015 -- 08/05/15 15:57 - ALB 
+------------------------------------------------------
+_id : 628
+address : VK-ALBANK
+date : 1431081110822
+subject : null
+body : Miss you in our nearest ATM to serve you better. Grateful to you for your patronage - Allahabad Bank. -- 08/05/15 15:58 - ALB 
+------------------------------------------------------
+_id : 627
+address : VM-ALBANK
+date : 1431081080883
+subject : null
+body : Your A/c XXXXXXX3512 is credited through ATM by Rs. 10,000 Total Bal : Rs. 3,43,741.48 CR  Clr Bal : Rs. 3,43,741.48 CR 08/05/2015 -- 08/05/15 15:58 - ALB
+------------------------------------------------------
+_id : 626
+address : BA-HPGASa
+date : 1431057338447
+subject : null
+body : HPGas Refill booking 524602 for 602013 Booking Cleared till07.May.2015 at ANUKKHAN FUEL SERVICE.Ask delivery man to weigh cylinder before delivery
+------------------------------------------------------
+_id : 625
+address : VK-ICICIB
+date : 1431057184830
+subject : null
+body : Dear Customer, ICICI Bank offers Pradhan Mantri Suraksha Bima Yojana - an accidental cover of Rs. 2 lac for annual premium amount of Rs. 12. To enroll, SMS PMSBY  <nominee name> Y to 5676766 from your regd mobile no. The premium amt will be debited from your ICICI Bank Savings Acct. TnC at http://bit.ly/1GP7JDe
+------------------------------------------------------
+_id : 624
+address : VM-HDFCBK
+date : 1431053956653
+subject : null
+body : Rs.1500.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-08:08:29:13 at +GARFA. Avl bal: Rs.17272.58
+------------------------------------------------------
+_id : 623
+address : VM-HDFCBK
+date : 1430971728254
+subject : null
+body : INR 35,594.00 Dr to A/c No XX5729 towards ECS D-RACPC SBI-34232798047 Val 07-MAY-15. Clr Bal INR 18,772.58.
+------------------------------------------------------
+_id : 621
+address : +918130322679
+date : 1430928764616
+subject : null
+body : Eta amar number- soumyadip
+------------------------------------------------------
+_id : 619
+address : VM-HDFCBK
+date : 1430756678846
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.2813.14 in KOLKATTA at KISHORE SERVICE on 2015-05-04:21:53:08  Avl bal: Rs.54445.60
+------------------------------------------------------
+_id : 618
+address : VM-HDFCBK
+date : 1430756625400
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.2813.14 in KOLKATTA at KISHORE SERVICE on 2015-05-04:21:53:08  Avl bal: Rs.54445.60
+------------------------------------------------------
+_id : 617
+address : BZ-HPGASe
+date : 1430745003101
+subject : null
+body : Ref:HP Gas Booking No 520746 is cancelled.Please re-book your LPG refill.
+------------------------------------------------------
+_id : 616
+address : VM-HDFCBK
+date : 1430667011431
+subject : null
+body : Thank you for using Debit Card ending 0703 for Rs.558.00 in KOLKATA at ARAMBAG FOOD MART PVT on 2015-05-03:21:00:05  Avl bal: Rs.57258.74
+------------------------------------------------------
+_id : 614
+address : VM-HDFCBK
+date : 1430665218883
+subject : null
+body : Rs.900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-03:20:30:13 at +GARFA MAIN ROAD CD. Avl bal: Rs.57816.74
+------------------------------------------------------
+_id : 613
+address : VK-ALBANK
+date : 1430555159093
+subject : null
+body : Your A/c XXXXXXX3512 is debited by Rs. 35,000 Total Bal : Rs. 3,41,541.48 CR  Clr Bal : Rs. 3,41,541.48 CR 02/05/2015 -- 02/05/15 13:53 - ALB 
+------------------------------------------------------
+_id : 612
+address : VM-YESBNK
+date : 1430546837945
+subject : null
+body : Avbl Bal as on 02-May-2015 11:36:51 in your A/C. No.XX2915 is INR 411,820.99, Tot. avbl bal (including linked deposits and Limit) is INR 411,820.99.
+------------------------------------------------------
+_id : 610
+address : DZ-FCTZEN
+date : 1430476934711
+subject : null
+body : Your Shoppers Stop FIRST CITIZEN a/c 2210XXXXXXXX6395 is eligible to get discount vouchers worth Rs1000 on purchase of Rs5000 or more in a single transaction from your favorite DENIMS during the First Citizens' Fiesta bit.ly/FCTZENFD. Fiesta offer available at Shoppers Stop & HomeStop. T&C apply.
+------------------------------------------------------
+_id : 607
+address : VM-FROMSC
+date : 1430465516014
+subject : null
+body : Your order no. 10735104 for Cashback to cash redemption will get processed in 3 working days. If you have not requested please sms NOT to 9987123123. Login to online banking for order status - StanChart
+------------------------------------------------------
+_id : 606
+address : VM-HDFCBK
+date : 1430463818595
+subject : null
+body : An amount of Rs.5,827.00 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 605
+address : VM-HDFCBK
+date : 1430463791934
+subject : null
+body : An amount of Rs.5,827.00 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 604
+address : VM-HDFCBK
+date : 1430459705229
+subject : null
+body : An amount of Rs.1,622.00 has been debited from your account  number XXXX5729 for an online payment txn done using HDFC Bank NetBanking.
+------------------------------------------------------
+_id : 603
+address : VM-TGENIE
+date : 1430459454884
+subject : null
+body : Hi Debojyoti Das, 
+Your ticket(s) confirmed. 
+for KKR Home Games 2015 
+Ref No : 171687555 
+Ticket(s) will be sent by courier.
+------------------------------------------------------
+_id : 602
+address : VM-HDFCBK
+date : 1430453345825
+subject : null
+body : Rs.1900.00 was withdrawn using your HDFC Bank Card ending 0703 on 2015-05-01:09:38:56 at GARFA (E-CORNER 1ST). Avl bal: Rs.66165.74
+------------------------------------------------------
+_id : 600
+address : VK-HDFCBK
+date : 1430392925063
+subject : null
+body : Salary of INR 61,942.00 credited to A/c XXXXXXXXXX5729 towards sal 201504 Kol 9537      sal 201504 Kol Value 30-APR-2015 . Check A/c for balance
+------------------------------------------------------
+_id : 598
+address : +919433022650
+date : 1430286179357
+subject : null
+body : Tomer ma er namta message koro - Soumyo r  baba
+------------------------------------------------------
+_id : 595
+address : BA-HPGASa
+date : 1430188646696
+subject : null
+body : HPGas Refill booking 520746 for 602013 Booking Cleared till24.Apr.2015 at ANUKKHAN FUEL SERVICE.Ask delivery man to weigh cylinder before delivery
+------------------------------------------------------
+_id : 594
+address : VK-IRCTCi
+date : 1430156260772
+subject : null
+body : PNR:6340439357,TRAIN:13104,DOJ:03-05-15,2S,BPC-SDAH,Dep:06:30,
+D DAS,D3 108,
+Fare:85,SC:22.47+PG CHGS
+
+------------------------------------------------------
+_id : 593
+address : VK-IRCTCi
+date : 1430153189803
+subject : null
+body : PNR:6140438842,TRAIN:13103,DOJ:01-05-15,2S,SDAH-BPC,Dep:18:20,
+D DAS+2,D3 40,D3 41,D3 44,
+Fare:185,SC:22.47+PG CHGS
+------------------------------------------------------
+_id : 563
+address : VM-FROMSC
+date : 1429338763371
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/04/15 for INR 2074.94. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 559
+address : VM-FROMSC
+date : 1429322791786
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/04/15 for INR 427.08. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 558
+address : VM-FROMSC
+date : 1429322097679
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 18/04/15 for INR 791.92. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 554
+address : DM-ENCRCL
+date : 1429160489070
+subject : null
+body : Dear Member, your encircle points as on 14/04/15 is 156.90 & your 123.00 points are due to expire as on 13/06/15. Hurry Redeem your points!T&C aply
+------------------------------------------------------
+_id : 553
+address : VM-FROMSC
+date : 1429158982411
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 16/04/15 for INR 4624.94. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 547
+address : VM-FROMSC
+date : 1428903872180
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 13/04/15 for INR 1159.73. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 546
+address : VM-FROMSC
+date : 1428903710713
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 13/04/15 for INR 624.85. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 542
+address : VK-CBSSBI
+date : 1428902676512
+subject : null
+body : Interest rate on account XXXXX798047 is changed to 10.000% as on 10/04/15. Please contact Branch Manager for any queries.
+------------------------------------------------------
+_id : 541
+address : DM-CESCLM
+date : 1428898818455
+subject : null
+body : DEAR CONSUMER THANK YOU FOR REGISTERING WITH US.
+------------------------------------------------------
+_id : 528
+address : DM-IRCTCi
+date : 1428207060678
+subject : null
+body : PNR:2532333118,TRAIN:12260,DOJ:05-05-15,2A,NDLS-SDAH,Dep:19:40,
+S ROY,A3 28,
+Fare:2840,SC:44.94+PG CHGS
+------------------------------------------------------
+_id : 525
+address : VM-FROMSC
+date : 1428203739226
+subject : null
+body : Thank you for using StanChart Card No XX4275 on 05/04/15 for INR 842.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.
+------------------------------------------------------
+_id : 517
+address : +919830729533
+date : 1427897537412
+subject : null
+body : WB 23B 5350
+------------------------------------------------------
+_id : 495
+address : VM-iPaytm
+date : 1425944320495
+subject : null
+body : You have registered Paytm Wallet with Uber. Use OTP 529643 to authorize Uber to automatically deduct for your future trips. Questions? Write us at care@paytm.com.
+------------------------------------------------------
+_id : 480
+address : DM-CESCLM
+date : 1425710768965
+subject : null
+body : Please arrange to settle the Security Deposit amount to enable us to effect the change in name against Consumer Number: 7510803507 . The bill has been sent to your email address. You may also download the same from our website.
+------------------------------------------------------
+_id : 466
+address : DM-CESCLM
+date : 1425259360566
+subject : null
+body : DEAR CONSUMER, GREETINGS AND BEST WISHES FROM CESC FOR A VERY HAPPY BIRTHDAY.
+------------------------------------------------------
+_id : 447
+address : +917797264299
+date : 1423547162148
+subject : null
+body : Tmar biye te kintu dj chai rcptn er din r emni din glo te bari te jore gaan chai..chumki didi r biye ta khb e shnti giye6e..Debi nd dolan
+------------------------------------------------------
+_id : 432
+address : +919903302431
+date : 1423035367095
+subject : null
+body : Saheb, kamon achhish? Free hoye phn korish. Raktim.
+------------------------------------------------------
+_id : 419
+address : Vodafone
+date : 1422019936759
+subject : null
+body : Ur 2GB 3G data pack@Rs450 is active now.Post consumption of DATA as per your pack,charges applicable as per base Data tariff.Dial *111# for more details
+------------------------------------------------------
+_id : 286
+address : VM-ENCRCL
+date : 1418369345021
+subject : null
+body : You have earned 33.9 Encircle Points for transaction done at WOT on 10/12/14. Point balance on your card no 700051752504 is 156.9.Call: 18001084826
+------------------------------------------------------
+_id : 284
+address : VM-ENCRCL
+date : 1418363555297
+subject : null
+body : Dear Member, Your card no 700051752504 is active with 123 points. Visit your own page at www.titanencircle.com. Use password pq12+=, call 18001084826.
+------------------------------------------------------
+_id : 155
+address : DM-HRGDNT
+date : 1413237226042
+subject : null
+body : Dear DEBOJYOTI DAS your Visa Application Status : Visa Granted / Sent Ref no : DVMS30664 Pax Name : DEBOJYOTI DAS Date : 13/10/2014
+------------------------------------------------------
+_id : 151
+address : DM-HRGDNT
+date : 1413188830154
+subject : null
+body : Dear DEBOJYOTI DAS your Visa Application Status : Docs Received Ref no : DVMS30664 Pax Name : DEBOJYOTI DAS Date : 13/10/2014
+------------------------------------------------------
+_id : 120
+address : +919831493756
+date : 1412398046249
+subject : null
+body : *** Subho Bijoya ***
+--Debarko
+------------------------------------------------------
+_id : 119
+address : +919833892585
+date : 1412353384631
+subject : null
+body : Bijoyar  Preeti o Subhechha janai sokolke.
+Titas & Bidesh
+------------------------------------------------------
+_id : 118
+address : +919874136925
+date : 1412341297536
+subject : null
+body : Shubho Bijoya to you and your family.
+------------------------------------------------------
+_id : 113
+address : TD-ITDCPC
+date : 1411623481030
+subject : null
+body : ITR for AY 2014-15, Ack No.273902460280714 has been processed at CPC.Order u/s 143(1) will be sent on  email id 
+------------------------------------------------------
+_id : 96
+address : BX-SBILOS
+date : 1410330770096
+subject : null
+body : 'Your HL proposal OF Rs. 4000000 has been sanctioned on 10/09/2014  officer concerned will contact you for the formalities shortly. Thanks, SBI'
+------------------------------------------------------
+_id : 11
+address : AM-kutchi
+date : 1395655749888
+subject : null
+body : Welcome to KUTCHINA. Your ID is 10103100. For any service,complains & query contact our customer care no. 033-40055005 with your registered mobile no. or ID.
+------------------------------------------------------
+_id : 5
+address : LM-FORTIS
+date : 1388115598771
+subject : null
+body : Dear  Mr. DEBOJYOTI DAS  Welcome to Fortis Hospitals Anandapur.You have registered with UHID: 95605
+------------------------------------------------------
+_id : 3
+address : +919830985968
+date : 1384859639183
+subject : null
+body : Pallab Kumar Sarkar. SBI A/c No. 10825803814.  C.I.T Road Branch. IFSC Code: SBIN0001140 www.thepacific.co.+919007094861in
+------------------------------------------------------
+_id : 1
+address : +918420193631
+date : 1379131367035
+subject : null
+body : VOLKSWAGEN WORKSHOP. 43 EAST TOPSIA ROAD. ARUPOTA. KOL 105. near science city.p c chandra park. Directn-Bantala road. L.m-GRAND MARBLES. near BMW workshop.CP-ASHMITA SENGUPTA-8420193632/033-65006589/9051468012
+------------------------------------------------------

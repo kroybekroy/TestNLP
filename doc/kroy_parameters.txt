@@ -16,6 +16,3 @@ Date and Time of Bill : Date and Time of Reception of SMS and Date and Time of B
 Account Number
 Amount
 Due Date
-
----
-SELECT distinct s.body FROM `sms_pos_tag` t inner join `sms` s on t.sms_id = s.id

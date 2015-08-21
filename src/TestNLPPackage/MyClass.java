@@ -23,14 +23,13 @@ public class MyClass {
 		String query = "";
 		query = "SELECT id, body FROM `sms` WHERE address NOT LIKE '+%'";
 		
-		String fileName = "";
-		fileName = "NLP.txt"; 
+		String fileName = "doc/NLP.txt"; 
 
 		try {
 			ResultSet objResultSet = GetData(query);
 
 			/* Unblock this code if you want to write to a text file */
-			 try 
+			 /*try 
 			 { 
 				 	PrintStream out = new PrintStream(new FileOutputStream(fileName)); 
 				 	System.setOut(out); 
@@ -39,18 +38,24 @@ public class MyClass {
 			 { 
 				 // TODO Auto-generated catch block 
 				 e.printStackTrace();
-			 }
+			 }*/
 			 
 
 			while (objResultSet.next()) {
 				String data = objResultSet.getString("body");
 			 	//String data = "Thank you for using StanChart Card No XX4275 on 05/04/15 for INR 842.70. To check EMI eligibility on spends above INR5000, log on to m.sc.com/in -T&C Apply.";
 			 
-				System.out.print(data);
+				//System.out.print(data);
 
-				 int score = ValidateData(data);
-				 
-				 if (score >= 2) {
+				int score = ValidateData(data);
+				
+				query = "UPDATE sms SET score = " + score + " WHERE id = " + objResultSet.getString("id").replace("\n", ""); 
+				
+				System.out.print(query + "\n");
+				
+				SetData(query);
+				
+				if (score >= 2) {
 					 
 					//SentenceDetectorMethod(data);
 
@@ -407,18 +412,23 @@ public class MyClass {
 	{		
 		int score = 0;
 		
-		Pattern pCurrency = Pattern.compile("\\d{1,3}(,\\d{2,3})*\\.\\d{1,2}");
-		Pattern pNumber = Pattern.compile("[0-9]{4,}");
+		Pattern pAmount = Pattern.compile("\\d{1,3}(,\\d{2,3})*\\.\\d{1,2}");
+		Matcher mAmount = pAmount.matcher(data);
 		
+		if(mAmount.find())
+			score++;
+		
+		Pattern pInteger = Pattern.compile("[0-9]{4,}");
+		Matcher mInteger = pInteger.matcher(data);
+		
+		if(mInteger.find())
+			score++;
+		
+		Pattern pCurrency = Pattern.compile("([ ][rR][sS])|([ ][iI][nN][rR])");
 		Matcher mCurrency = pCurrency.matcher(data);
 		
 		if(mCurrency.find())
-			score += 1;
-		
-		Matcher mNumber = pNumber.matcher(data);
-		
-		if(mNumber.find())
-			score += 1;
+			score++;
 		
 		return score;
 	}

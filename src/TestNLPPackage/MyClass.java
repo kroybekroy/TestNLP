@@ -47,15 +47,18 @@ public class MyClass {
 			 
 				//System.out.print(data);
 
-				int score = ValidateData(data);
+				Data objData = ValidateData(data);
 				
-				query = "UPDATE sms SET score = " + score + " WHERE id = " + objResultSet.getString("id").replace("\n", ""); 
+				int score = objData.Score;
+				String template = objData.Template.replace("\n", "");
+				
+				query = "UPDATE sms SET score = " + score + ", template = '" + template + "' WHERE id = " + objResultSet.getString("id").replace("\n", ""); 
 				
 				System.out.print(query + "\n");
 				
 				SetData(query);
 				
-				if (score >= 2) {
+				/*if (score >= 2) {
 					 
 					//SentenceDetectorMethod(data);
 
@@ -85,7 +88,7 @@ public class MyClass {
 
 						SetData(query);
 					}
-				}
+				}*/
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -408,29 +411,63 @@ public class MyClass {
 		}
 	}
 	
-	public static int ValidateData(String data)
+	public static Data ValidateData(String data)
 	{		
-		int score = 0;
 		
-		Pattern pAmount = Pattern.compile("\\d{1,3}(,\\d{2,3})*\\.\\d{1,2}");
-		Matcher mAmount = pAmount.matcher(data);
+		Data objData = new Data();
+		objData.Score = 0;
+		objData.Template = data;
+		
+		String day = "(\\d{2})";
+		String month = "(([01][0-9])|([A-Za-z]{3}))";
+		String year = "((\\d{4})|(\\d{2}))";
+		
+		Pattern pDate = Pattern.compile("(" + day + "[/-]" + month + "[/-]" + year + ")|(" + year + "[/-]" + month + "[/-]" + day + ")");
+		Matcher mDate = pDate.matcher(objData.Template);
+		
+		if(mDate.find())
+		{
+			objData.Score++;
+			objData.Template = mDate.replaceAll("{{DATE}}");
+		}
+		
+		Pattern pTime = Pattern.compile("\\d{2}:\\d{2}(:\\d{2})?");
+		Matcher mTime = pTime.matcher(objData.Template);
+		
+		if(mTime.find())
+		{
+			objData.Score++;
+			objData.Template = mTime.replaceAll("{{TIME}}");
+		}
+				
+		Pattern pAmount = Pattern.compile("(\\d{1,3}(,\\d{2,3})+(\\.\\d{1,2})?)|(\\d+(\\.\\d{1,2}))");
+		Matcher mAmount = pAmount.matcher(objData.Template);
 		
 		if(mAmount.find())
-			score++;
+		{
+			objData.Score++;
+			objData.Template = mAmount.replaceAll("{{AMOUNT}}");
+		}
 		
 		Pattern pInteger = Pattern.compile("[0-9]{4,}");
-		Matcher mInteger = pInteger.matcher(data);
+		Matcher mInteger = pInteger.matcher(objData.Template);
 		
 		if(mInteger.find())
-			score++;
+		{
+			objData.Score++;
+			objData.Template = mInteger.replaceAll("{{INTEGER}}");
+		}
 		
-		Pattern pCurrency = Pattern.compile("([ ][rR][sS])|([ ][iI][nN][rR])");
-		Matcher mCurrency = pCurrency.matcher(data);
+		Pattern pCurrency = Pattern.compile("(^|\\s)(([rR][sS])|([iI][nN][rR]))[\\.\\s]?");
+		Matcher mCurrency = pCurrency.matcher(objData.Template);
 		
 		if(mCurrency.find())
-			score++;
+		{
+			objData.Score++;
+			objData.Template = mCurrency.replaceAll("{{CURRENCY}}");
+		}
 		
-		return score;
+		return objData;
 	}
 	
 }

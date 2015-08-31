@@ -1,0 +1,31 @@
+Module 1: User Authentication Module
+1. New User; Register using Personal Email and Password, Google Authentication, Facebook Authentication
+2. Existing User; Log In
+3. Logging In Device Info, Network Info
+
+Module 2: User Profiling Module
+1. Personal Information of the User
+
+Module 3: SMS Receive Module
+1. Get SMS already in the system, when the app is installed
+2. Get any new SMS that comes in to the system
+
+Module 4: SMS Process Module
+1. Process SMS; Extract data from the SMS
+2. SMS cannot Extract data; but has the Probability to be a Valid SMS; put in Cache
+
+Module 5: SMS Sync Module
+1. Unsynced SMS; sync with Source
+2. Probable SMS Template; sync with Source
+3. Get new SMS Template from Source
+
+Module 6: SMS Analytics Module
+1. Generate Summary, Statistics and Graphs from the Extracted SMS
+
+Module 7: Sync User Profile Info with Server
+
+Module 8: Sync User SMS Info with Server
+
+Module 9: Sync Templates with Users
+
+Module 10: Bid Data Analytics

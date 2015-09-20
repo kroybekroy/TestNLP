@@ -28,4 +28,4 @@ Module 8: Sync User SMS Info with Server
 
 Module 9: Sync Templates with Users
 
-Module 10: Bid Data Analytics
+Module 10: Big Data Analytics

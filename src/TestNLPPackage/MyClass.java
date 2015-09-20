@@ -54,17 +54,21 @@ public class MyClass {
 				
 				query = "UPDATE sms SET score = " + score + ", template = '" + template + "' WHERE id = " + objResultSet.getString("id").replace("\n", ""); 
 				
-				System.out.print(query + "\n");
+				//System.out.print(template + "\n");
 				
 				SetData(query);
 				
-				/*if (score >= 2) {
+				if (score == 5) {
+					
+					System.out.print(template + "\n");
 					 
 					//SentenceDetectorMethod(data);
 
-					String tokens[] = TokenizerMethod(data);
+					String tokens[] = TokenizerMethod(template);
 
-					String tags[] = POSTaggerMethod(tokens);				
+					String tags[] = POSTaggerMethod(tokens);	
+					
+					/*
 
 					 //NameFinderMethod(tokens);
 
@@ -87,8 +91,8 @@ public class MyClass {
 								+ chunks[i] + "'";
 
 						SetData(query);
-					}
-				}*/
+					}*/
+				}
 			}
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -177,12 +181,12 @@ public class MyClass {
 
 			tags = tagger.tag(tokens);
 
-			//System.out.print("\n\nPOS Tags [Token :: Tag]\n");
+			System.out.print("\n\nPOS Tags [Token :: Tag]\n");
 
-			/*for (int i = 0; i < tags.length; i++) {
+			for (int i = 0; i < tags.length; i++) {
 				System.out.print((i + 1) + ". " + tokens[i] + " :: " + tags[i]
 						+ "\n");
-			}*/
+			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		} finally {
@@ -428,7 +432,7 @@ public class MyClass {
 		if(mDate.find())
 		{
 			objData.Score++;
-			objData.Template = mDate.replaceAll("{{DATE}}");
+			objData.Template = mDate.replaceAll("{DATE}");
 		}
 		
 		Pattern pTime = Pattern.compile("\\d{2}:\\d{2}(:\\d{2})?");
@@ -437,7 +441,7 @@ public class MyClass {
 		if(mTime.find())
 		{
 			objData.Score++;
-			objData.Template = mTime.replaceAll("{{TIME}}");
+			objData.Template = mTime.replaceAll("{TIME}");
 		}
 				
 		Pattern pAmount = Pattern.compile("(\\d{1,3}(,\\d{2,3})+(\\.\\d{1,2})?)|(\\d+(\\.\\d{1,2}))");
@@ -446,7 +450,7 @@ public class MyClass {
 		if(mAmount.find())
 		{
 			objData.Score++;
-			objData.Template = mAmount.replaceAll("{{AMOUNT}}");
+			objData.Template = mAmount.replaceAll("{AMOUNT}");
 		}
 		
 		Pattern pInteger = Pattern.compile("[0-9]{4,}");
@@ -455,7 +459,7 @@ public class MyClass {
 		if(mInteger.find())
 		{
 			objData.Score++;
-			objData.Template = mInteger.replaceAll("{{INTEGER}}");
+			objData.Template = mInteger.replaceAll("{INTEGER}");
 		}
 		
 		Pattern pCurrency = Pattern.compile("(^|\\s)(([rR][sS])|([iI][nN][rR]))[\\.\\s]?");
@@ -464,7 +468,7 @@ public class MyClass {
 		if(mCurrency.find())
 		{
 			objData.Score++;
-			objData.Template = mCurrency.replaceAll("{{CURRENCY}}");
+			objData.Template = mCurrency.replaceAll("{CURRENCY}");
 		}
 		
 		return objData;
